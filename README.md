@@ -42,3 +42,6 @@ partitions but then fail for 128 partitions, for example.
 benchmark_list.py contains the names of all of the benchmarks from SMT-COMP, 
 QF_LRA, and QF_UF that were used. Note that the SMT-COMP benchmarks include
 the QF_LIA, QF_RDL, and QF_IDL benchmarks. 
+
+`python3 process_data.py`` will generate all figures from the paper in the 
+figures directory. 
