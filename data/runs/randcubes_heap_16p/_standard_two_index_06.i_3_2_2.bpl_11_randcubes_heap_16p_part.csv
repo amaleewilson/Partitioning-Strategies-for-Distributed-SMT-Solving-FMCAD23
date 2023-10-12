@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_two_index_06.i_3_2_2.bpl_11_p0.smt2,,ok,unsat,576.5,0,576.5,81.7
+_standard_two_index_06.i_3_2_2.bpl_11_p1.smt2,,ok,unsat,13.4,0,13.3,18.8
+_standard_two_index_06.i_3_2_2.bpl_11_p10.smt2,,ok,unsat,0.9,0,0.8,10.1
+_standard_two_index_06.i_3_2_2.bpl_11_p11.smt2,,ok,unsat,0.6,0,0.6,10.6
+_standard_two_index_06.i_3_2_2.bpl_11_p12.smt2,,ok,unsat,0.8,0,0.7,10.9
+_standard_two_index_06.i_3_2_2.bpl_11_p13.smt2,,ok,unsat,0.7,0,0.6,9.6
+_standard_two_index_06.i_3_2_2.bpl_11_p14.smt2,,ok,unsat,0.7,0,0.6,10.3
+_standard_two_index_06.i_3_2_2.bpl_11_p15.smt2,,ok,unsat,0.6,0,0.6,10.9
+_standard_two_index_06.i_3_2_2.bpl_11_p2.smt2,,ok,unsat,12.4,0,12.3,18.8
+_standard_two_index_06.i_3_2_2.bpl_11_p3.smt2,,ok,unsat,4.4,0,4.2,13.7
+_standard_two_index_06.i_3_2_2.bpl_11_p4.smt2,,ok,unsat,707.2,0,707.2,93.8
+_standard_two_index_06.i_3_2_2.bpl_11_p5.smt2,,ok,unsat,9.5,0,9.5,16.1
+_standard_two_index_06.i_3_2_2.bpl_11_p6.smt2,,ok,unsat,11.2,0,11.2,16.5
+_standard_two_index_06.i_3_2_2.bpl_11_p7.smt2,,ok,unsat,4.3,0,4.3,14.6
+_standard_two_index_06.i_3_2_2.bpl_11_p8.smt2,,ok,unsat,0.6,0,0.6,10.2
+_standard_two_index_06.i_3_2_2.bpl_11_p9.smt2,,ok,unsat,0.6,0,0.6,10.3

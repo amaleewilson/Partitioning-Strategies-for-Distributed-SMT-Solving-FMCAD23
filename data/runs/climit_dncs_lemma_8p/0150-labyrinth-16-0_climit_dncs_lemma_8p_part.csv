@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+0150-labyrinth-16-0_p0.smt2,,to,unknown,1201.0,0,1200.3,1772.5
+0150-labyrinth-16-0_p1.smt2,,ok,sat,739.0,0,738.4,1551.5
+0150-labyrinth-16-0_p2.smt2,,to,unknown,1201.0,0,1200.7,1715.3
+0150-labyrinth-16-0_p3.smt2,,to,unknown,1201.0,0,1200.7,1810.3
+0150-labyrinth-16-0_p4.smt2,,ok,sat,726.7,0,726.2,1574.3
+0150-labyrinth-16-0_p5.smt2,,ok,sat,906.5,0,905.8,1592.0
+0150-labyrinth-16-0_p6.smt2,,ok,sat,1006.4,0,1005.9,1678.0
+0150-labyrinth-16-0_p7.smt2,,to,unknown,1201.0,0,1200.6,1647.3

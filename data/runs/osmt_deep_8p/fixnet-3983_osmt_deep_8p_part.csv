@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+fixnet-3983_p0.smt2,,to,unknown,1201.0,0,1201.0,284.8
+fixnet-3983_p1.smt2,,to,unknown,1201.0,0,1200.9,236.2
+fixnet-3983_p2.smt2,,to,unknown,1201.0,0,1200.9,348.8
+fixnet-3983_p3.smt2,,to,unknown,1201.0,0,1201.0,289.3
+fixnet-3983_p4.smt2,,to,unknown,1201.0,0,1201.0,255.8
+fixnet-3983_p5.smt2,,to,unknown,1201.0,0,1201.0,353.0
+fixnet-3983_p6.smt2,,to,unknown,1201.0,0,1200.9,294.7
+fixnet-3983_p7.smt2,,to,unknown,1201.0,0,1201.0,397.7

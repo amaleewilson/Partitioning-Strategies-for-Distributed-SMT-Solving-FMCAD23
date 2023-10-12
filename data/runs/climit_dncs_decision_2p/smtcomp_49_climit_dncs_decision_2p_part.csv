@@ -1,0 +1,2 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_49_p0.smt2,,ok,sat,78.0,0,78.0,159.0

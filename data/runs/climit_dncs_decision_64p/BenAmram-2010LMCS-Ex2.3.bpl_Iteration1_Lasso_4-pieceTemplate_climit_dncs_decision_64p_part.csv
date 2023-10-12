@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,unsat,526.6,0,526.5,137.1
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,unsat,514.1,0,514.1,135.9
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,470.6,0,470.5,137.4
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,unsat,677.1,0,677.0,143.2

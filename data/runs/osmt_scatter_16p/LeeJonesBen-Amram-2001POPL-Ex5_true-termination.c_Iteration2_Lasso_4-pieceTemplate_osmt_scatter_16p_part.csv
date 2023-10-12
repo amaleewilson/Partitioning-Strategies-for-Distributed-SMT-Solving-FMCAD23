@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p0.smt2,,ok,unsat,59.5,0,59.5,198.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p1.smt2,,ok,unsat,21.3,0,21.2,190.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p10.smt2,,ok,unsat,19.8,0,19.7,193.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p11.smt2,,ok,unsat,17.3,0,17.2,190.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p12.smt2,,to,unknown,1201.0,0,1200.9,277.7
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p13.smt2,,ok,unsat,15.7,0,15.7,175.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p14.smt2,,ok,unsat,15.9,0,15.9,190.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p15.smt2,,ok,unsat,103.2,0,103.1,231.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1200.9,266.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p3.smt2,,ok,unsat,27.9,0,27.8,223.7
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1201.0,304.4
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p5.smt2,,ok,unsat,1172.7,0,1172.5,333.2
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p6.smt2,,to,unknown,1201.0,0,1200.9,304.9
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,12.8,0,12.7,172.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p8.smt2,,to,unknown,1201.0,0,1200.9,323.9
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p9.smt2,,to,unknown,1201.0,0,1200.9,340.1

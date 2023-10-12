@@ -1,0 +1,7 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p0.smt2,,ok,unsat,389.3,0,389.3,136.9
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p1.smt2,,ok,unsat,6.1,0,6.1,87.6
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p2.smt2,,ok,unsat,513.3,0,513.2,137.3
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p3.smt2,,ok,unsat,434.0,0,434.0,128.7
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p4.smt2,,ok,unsat,6.1,0,6.1,87.1
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p5.smt2,,ok,unsat,484.2,0,483.9,141.9

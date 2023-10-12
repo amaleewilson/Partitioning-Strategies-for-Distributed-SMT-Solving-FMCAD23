@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p0.smt2,,ok,sat,797.3,0,797.2,350.5
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p1.smt2,,ok,sat,811.1,0,811.0,357.6
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p2.smt2,,ok,sat,790.5,0,790.3,342.1
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,352.9
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p4.smt2,,ok,sat,652.6,0,652.5,340.5
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p5.smt2,,ok,sat,618.1,0,618.0,349.0
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p6.smt2,,ok,sat,758.7,0,758.6,339.9
+BradleyMannaSipma-2005CAV-Fig1_true-termination.c_Iteration1_Lasso_7-phaseTemplate_p7.smt2,,ok,sat,640.2,0,640.1,337.1

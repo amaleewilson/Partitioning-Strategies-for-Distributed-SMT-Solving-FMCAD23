@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,unsat,23.4,0,23.3,268.4
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,sat,955.8,0,955.7,431.6
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p10.smt2,,ok,unsat,23.6,0,23.5,268.4
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p11.smt2,,to,unknown,1201.0,0,1201.0,427.0
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p12.smt2,,ok,unsat,23.9,0,23.9,268.1
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p13.smt2,,ok,sat,863.7,0,863.7,440.0
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p14.smt2,,ok,unsat,23.7,0,23.7,267.7
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p15.smt2,,ok,sat,954.6,0,954.5,391.4
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,24.0,0,23.9,268.3
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,377.0
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,unsat,23.3,0,23.3,267.6
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,ok,sat,825.2,0,825.1,387.7
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,ok,unsat,23.4,0,23.4,268.0
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1200.9,381.2
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p8.smt2,,ok,unsat,23.3,0,23.2,267.7
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p9.smt2,,ok,sat,1175.6,0,1175.6,447.0

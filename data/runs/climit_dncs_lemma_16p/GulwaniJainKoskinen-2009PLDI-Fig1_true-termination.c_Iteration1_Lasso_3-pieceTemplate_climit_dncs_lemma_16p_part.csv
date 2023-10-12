@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.8,778.3
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,786.2
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p10.smt2,,to,unknown,1201.0,0,1200.9,785.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p11.smt2,,to,unknown,1201.0,0,1200.9,793.3
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p12.smt2,,to,unknown,1201.0,0,1200.9,787.0
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p13.smt2,,to,unknown,1201.0,0,1200.8,787.3
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p14.smt2,,to,unknown,1201.0,0,1200.9,780.0
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p15.smt2,,to,unknown,1201.0,0,1200.9,806.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1200.8,778.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,774.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1200.9,794.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,255.4,0,255.2,762.8
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,307.1,0,307.0,768.5
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1200.9,782.2
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p8.smt2,,ok,unsat,720.1,0,719.9,768.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p9.smt2,,to,unknown,1201.0,0,1200.9,775.5

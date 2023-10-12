@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_98_p0.smt2,,ok,unsat,8.4,0,8.3,61.4
+smtcomp_98_p1.smt2,,to,unknown,1201.0,0,1201.0,305.9
+smtcomp_98_p10.smt2,,ok,unsat,18.4,0,18.3,204.8
+smtcomp_98_p11.smt2,,ok,unsat,18.5,0,18.4,205.1
+smtcomp_98_p12.smt2,,ok,unsat,8.4,0,8.3,62.8
+smtcomp_98_p13.smt2,,ok,unsat,18.4,0,18.4,203.9
+smtcomp_98_p14.smt2,,ok,unsat,18.5,0,18.4,204.9
+smtcomp_98_p15.smt2,,to,unknown,1201.0,0,1200.7,312.2
+smtcomp_98_p2.smt2,,ok,unsat,8.5,0,8.4,61.9
+smtcomp_98_p3.smt2,,to,unknown,1201.0,0,1200.8,360.1
+smtcomp_98_p4.smt2,,ok,unsat,18.8,0,18.7,210.9
+smtcomp_98_p5.smt2,,ok,unsat,19.1,0,18.9,204.4
+smtcomp_98_p6.smt2,,ok,unsat,8.7,0,8.6,62.3
+smtcomp_98_p7.smt2,,ok,unsat,18.5,0,18.4,205.1
+smtcomp_98_p8.smt2,,ok,unsat,18.7,0,18.7,204.4
+smtcomp_98_p9.smt2,,ok,unsat,18.7,0,18.6,204.4

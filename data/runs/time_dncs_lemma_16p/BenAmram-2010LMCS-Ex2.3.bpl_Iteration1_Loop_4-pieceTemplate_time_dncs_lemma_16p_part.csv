@@ -1,0 +1,15 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p0.smt2,,ok,unsat,140.7,0,140.7,121.2
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p1.smt2,,ok,unsat,516.4,0,516.3,144.9
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p10.smt2,,ok,unsat,338.9,0,338.8,139.2
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p11.smt2,,ok,unsat,83.4,0,83.2,124.8
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p12.smt2,,ok,unsat,125.4,0,125.4,131.7
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p13.smt2,,ok,unsat,162.3,0,162.3,120.1
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p2.smt2,,ok,unsat,543.3,0,543.3,134.0
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p3.smt2,,ok,unsat,469.6,0,469.5,128.0
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p4.smt2,,ok,unsat,182.4,0,182.4,135.4
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p5.smt2,,ok,unsat,600.5,0,600.5,134.5
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p6.smt2,,ok,unsat,171.2,0,171.1,121.5
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p7.smt2,,ok,unsat,117.7,0,117.7,117.5
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p8.smt2,,ok,unsat,154.3,0,154.2,122.3
+BenAmram-2010LMCS-Ex2.3.bpl_Iteration1_Loop_4-pieceTemplate_p9.smt2,,ok,unsat,426.2,0,426.2,127.6

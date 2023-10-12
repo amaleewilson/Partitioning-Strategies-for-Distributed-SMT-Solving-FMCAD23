@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p0.smt2,,ok,unsat,157.9,0,157.8,361.6
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p1.smt2,,ok,sat,950.0,0,949.9,434.7
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p2.smt2,,ok,unsat,431.7,0,431.6,396.7
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p3.smt2,,ok,sat,786.0,0,785.8,418.9

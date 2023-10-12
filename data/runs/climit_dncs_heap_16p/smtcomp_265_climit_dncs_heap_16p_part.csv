@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_265_p0.smt2,,ok,unsat,64.5,0,1.7,31.3
+smtcomp_265_p1.smt2,,ok,unsat,2.6,0,0.7,13.3
+smtcomp_265_p10.smt2,,ok,unsat,60.6,0,0.6,12.6
+smtcomp_265_p11.smt2,,ok,unsat,3.5,0,1.7,31.5
+smtcomp_265_p12.smt2,,ok,unsat,61.2,0,1.7,30.5
+smtcomp_265_p13.smt2,,ok,unsat,62.3,0,0.7,13.1
+smtcomp_265_p14.smt2,,ok,unsat,3.7,0,1.7,30.8
+smtcomp_265_p15.smt2,,to,unknown,1201.0,0,1199.8,952.3
+smtcomp_265_p2.smt2,,ok,unsat,3.8,0,1.7,31.4
+smtcomp_265_p3.smt2,,ok,unsat,4.2,0,1.7,30.7
+smtcomp_265_p4.smt2,,ok,unsat,63.2,0,0.6,12.4
+smtcomp_265_p5.smt2,,ok,unsat,62.6,0,1.7,30.8
+smtcomp_265_p6.smt2,,ok,unsat,3.0,0,0.6,13.0
+smtcomp_265_p7.smt2,,ok,unsat,3.7,0,1.7,31.1
+smtcomp_265_p8.smt2,,ok,unsat,3.9,0,0.6,12.8
+smtcomp_265_p9.smt2,,ok,unsat,4.1,0,1.8,31.8

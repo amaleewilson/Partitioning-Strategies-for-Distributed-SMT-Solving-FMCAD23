@@ -1,0 +1,3 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+PEQ016_size7_p0.smt2,,to,unknown,1201.0,0,1200.7,92.5
+PEQ016_size7_p1.smt2,,ok,unsat,617.3,0,617.0,70.5

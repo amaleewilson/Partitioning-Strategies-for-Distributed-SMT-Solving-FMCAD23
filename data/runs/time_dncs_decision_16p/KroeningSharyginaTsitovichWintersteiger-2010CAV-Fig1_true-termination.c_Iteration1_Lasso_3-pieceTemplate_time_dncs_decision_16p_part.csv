@@ -1,0 +1,3 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,1118.2,0,1117.5,1097.9
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.2,1215.1

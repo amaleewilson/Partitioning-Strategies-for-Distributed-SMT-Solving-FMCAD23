@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,sat,929.5,0,929.4,517.9
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,unsat,35.7,0,35.6,398.9
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,sat,836.8,0,836.7,487.7
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,unsat,36.7,0,36.6,399.1
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,sat,936.2,0,935.8,533.0
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,ok,sat,864.7,0,864.6,491.6
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,ok,unsat,32.1,0,32.0,398.0
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,31.0,0,30.9,380.8

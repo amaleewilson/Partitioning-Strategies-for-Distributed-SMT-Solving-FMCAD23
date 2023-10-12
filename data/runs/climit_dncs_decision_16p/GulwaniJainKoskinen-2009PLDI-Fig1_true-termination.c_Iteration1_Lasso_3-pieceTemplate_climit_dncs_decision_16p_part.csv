@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,52.3,0,52.2,641.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,783.2
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p10.smt2,,ok,unsat,51.3,0,51.2,635.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p11.smt2,,ok,unsat,51.5,0,51.5,635.2
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p12.smt2,,ok,unsat,51.9,0,51.8,643.5
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p13.smt2,,ok,unsat,52.2,0,52.2,643.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p14.smt2,,ok,unsat,51.7,0,51.6,642.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p15.smt2,,to,unknown,1201.0,0,1201.0,782.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,51.9,0,51.8,642.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,51.8,0,51.7,644.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,51.6,0,51.5,645.1
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,51.7,0,51.6,644.8
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,51.8,0,51.7,644.5
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,unsat,51.6,0,51.5,643.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p8.smt2,,ok,unsat,51.6,0,51.5,639.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p9.smt2,,ok,unsat,51.4,0,51.3,643.3

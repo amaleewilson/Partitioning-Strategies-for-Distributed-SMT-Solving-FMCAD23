@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_49_p0.smt2,,to,unknown,1201.0,0,1201.0,1154.3
+smtcomp_49_p1.smt2,,to,unknown,1201.0,0,1200.9,1166.1
+smtcomp_49_p10.smt2,,ok,sat,549.9,0,549.9,679.9
+smtcomp_49_p11.smt2,,to,unknown,1201.0,0,1201.0,1164.0
+smtcomp_49_p12.smt2,,to,unknown,1201.0,0,1201.0,1163.8
+smtcomp_49_p13.smt2,,to,unknown,1201.0,0,1201.0,1167.9
+smtcomp_49_p14.smt2,,to,unknown,1201.0,0,1201.0,1169.6
+smtcomp_49_p15.smt2,,to,unknown,1201.0,0,1201.0,1190.6
+smtcomp_49_p2.smt2,,to,unknown,1201.0,0,1201.1,1188.2
+smtcomp_49_p3.smt2,,to,unknown,1201.0,0,1201.0,1168.1
+smtcomp_49_p4.smt2,,to,unknown,1201.0,0,1201.0,1190.8
+smtcomp_49_p5.smt2,,to,unknown,1201.0,0,1200.9,1076.1
+smtcomp_49_p6.smt2,,to,unknown,1201.0,0,1201.0,1188.1
+smtcomp_49_p7.smt2,,to,unknown,1201.0,0,1201.0,1147.3
+smtcomp_49_p8.smt2,,to,unknown,1201.0,0,1201.0,1184.9
+smtcomp_49_p9.smt2,,to,unknown,1201.0,0,1201.0,1188.5

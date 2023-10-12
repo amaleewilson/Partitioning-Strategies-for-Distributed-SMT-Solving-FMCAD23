@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-199552_p0.smt2,,to,unknown,1201.0,0,1200.9,84.1
+constraint-199552_p1.smt2,,to,unknown,1201.0,0,1201.0,76.5
+constraint-199552_p10.smt2,,to,unknown,1201.0,0,1201.0,72.7
+constraint-199552_p11.smt2,,to,unknown,1201.0,0,1201.0,65.0
+constraint-199552_p12.smt2,,ok,sat,855.0,0,855.0,66.0
+constraint-199552_p13.smt2,,ok,sat,783.2,0,783.1,64.9
+constraint-199552_p14.smt2,,to,unknown,1201.0,0,1201.0,66.8
+constraint-199552_p15.smt2,,ok,sat,262.2,0,262.2,65.6
+constraint-199552_p2.smt2,,to,unknown,1201.0,0,1201.0,69.6
+constraint-199552_p3.smt2,,to,unknown,1201.0,0,1201.0,68.3
+constraint-199552_p4.smt2,,ok,sat,292.5,0,292.5,64.4
+constraint-199552_p5.smt2,,to,unknown,1201.0,0,1201.0,76.1
+constraint-199552_p6.smt2,,ok,sat,490.1,0,490.0,65.7
+constraint-199552_p7.smt2,,ok,sat,387.6,0,387.6,68.4
+constraint-199552_p8.smt2,,to,unknown,1201.0,0,1201.0,67.0
+constraint-199552_p9.smt2,,ok,sat,744.6,0,744.5,64.5

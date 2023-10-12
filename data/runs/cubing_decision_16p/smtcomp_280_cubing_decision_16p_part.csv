@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_280_p0.smt2,,to,unknown,1201.0,0,1201.0,306.1
+smtcomp_280_p1.smt2,,to,unknown,1201.0,0,1201.0,318.5
+smtcomp_280_p10.smt2,,ok,unsat,17.0,0,17.0,137.3
+smtcomp_280_p11.smt2,,to,unknown,1201.0,0,1201.0,317.4
+smtcomp_280_p12.smt2,,ok,unsat,16.7,0,16.6,135.4
+smtcomp_280_p13.smt2,,ok,unsat,16.9,0,16.9,135.7
+smtcomp_280_p14.smt2,,ok,unsat,16.9,0,16.8,137.5
+smtcomp_280_p15.smt2,,ok,unsat,16.7,0,16.7,135.6
+smtcomp_280_p2.smt2,,ok,unsat,17.1,0,17.1,136.7
+smtcomp_280_p3.smt2,,to,unknown,1201.0,0,1201.0,306.0
+smtcomp_280_p4.smt2,,ok,unsat,17.0,0,17.0,135.5
+smtcomp_280_p5.smt2,,ok,unsat,16.8,0,16.8,135.6
+smtcomp_280_p6.smt2,,ok,unsat,17.0,0,17.0,137.4
+smtcomp_280_p7.smt2,,ok,unsat,16.7,0,16.7,136.8
+smtcomp_280_p8.smt2,,to,unknown,1201.0,0,1201.0,292.3
+smtcomp_280_p9.smt2,,to,unknown,1201.0,0,1201.0,318.3

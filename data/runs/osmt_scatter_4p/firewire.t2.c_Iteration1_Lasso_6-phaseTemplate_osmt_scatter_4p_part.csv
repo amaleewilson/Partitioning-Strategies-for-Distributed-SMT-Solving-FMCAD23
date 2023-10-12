@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+firewire.t2.c_Iteration1_Lasso_6-phaseTemplate_p0.smt2,,ok,unsat,268.9,0,268.8,407.5
+firewire.t2.c_Iteration1_Lasso_6-phaseTemplate_p1.smt2,,ok,unsat,80.9,0,80.4,396.1
+firewire.t2.c_Iteration1_Lasso_6-phaseTemplate_p2.smt2,,to,unknown,1201.0,0,1200.9,452.9
+firewire.t2.c_Iteration1_Lasso_6-phaseTemplate_p3.smt2,,to,unknown,1201.0,0,1200.8,426.6

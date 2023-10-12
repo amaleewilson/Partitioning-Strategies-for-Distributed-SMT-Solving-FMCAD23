@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+danoint-66_p0.smt2,,to,unknown,1201.0,0,1201.0,58.7
+danoint-66_p1.smt2,,to,unknown,1201.0,0,1201.0,58.8
+danoint-66_p2.smt2,,to,unknown,1201.0,0,1201.0,60.2
+danoint-66_p3.smt2,,to,unknown,1201.0,0,1201.0,60.5

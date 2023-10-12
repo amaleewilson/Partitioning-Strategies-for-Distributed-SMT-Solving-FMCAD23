@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_288_p0.smt2,,ok,unsat,0.2,0,0.2,5.7
+smtcomp_288_p1.smt2,,ok,unsat,0.2,0,0.1,6.5
+smtcomp_288_p10.smt2,,ok,unsat,0.2,0,0.2,6.7
+smtcomp_288_p11.smt2,,ok,unsat,0.2,0,0.2,5.9
+smtcomp_288_p12.smt2,,to,unknown,1201.0,0,1201.1,1310.7
+smtcomp_288_p13.smt2,,to,unknown,1201.0,0,1201.1,1390.2
+smtcomp_288_p14.smt2,,ok,unsat,0.2,0,0.2,6.7
+smtcomp_288_p15.smt2,,ok,unsat,0.2,0,0.2,6.1
+smtcomp_288_p2.smt2,,to,unknown,1201.0,0,1201.1,1307.0
+smtcomp_288_p3.smt2,,to,unknown,1201.0,0,1201.1,1326.0
+smtcomp_288_p4.smt2,,ok,unsat,0.2,0,0.2,6.5
+smtcomp_288_p5.smt2,,ok,unsat,0.1,0,0.1,6.2
+smtcomp_288_p6.smt2,,to,unknown,1201.0,0,1201.1,1267.8
+smtcomp_288_p7.smt2,,to,unknown,1201.0,0,1201.1,1334.1
+smtcomp_288_p8.smt2,,to,unknown,1201.0,0,1201.1,1289.0
+smtcomp_288_p9.smt2,,to,unknown,1201.0,0,1201.1,1263.4

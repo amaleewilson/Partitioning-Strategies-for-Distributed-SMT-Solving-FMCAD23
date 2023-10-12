@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,unsat,1105.2,0,1105.1,105.1
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,unsat,1114.5,0,1114.3,104.3
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,106.4,0,106.3,40.8
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,unsat,82.5,0,82.4,38.7
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,unsat,1110.6,0,1110.5,101.9
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,ok,unsat,1056.1,0,1056.1,96.9
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,ok,unsat,119.8,0,119.8,41.7
+MenloPark.bpl_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,94.8,0,94.7,40.2

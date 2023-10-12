@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-223827_p0.smt2,,to,unknown,1201.0,0,1201.0,71.4
+constraint-223827_p1.smt2,,to,unknown,1201.0,0,1201.0,74.8
+constraint-223827_p10.smt2,,to,unknown,1201.0,0,1201.0,67.4
+constraint-223827_p11.smt2,,to,unknown,1201.0,0,1200.9,72.6
+constraint-223827_p12.smt2,,to,unknown,1201.0,0,1201.0,74.1
+constraint-223827_p13.smt2,,to,unknown,1201.0,0,1201.0,75.8
+constraint-223827_p14.smt2,,to,unknown,1201.0,0,1201.0,79.8
+constraint-223827_p15.smt2,,ok,sat,1058.2,0,1058.2,73.9
+constraint-223827_p2.smt2,,to,unknown,1201.0,0,1201.0,77.2
+constraint-223827_p3.smt2,,to,unknown,1201.0,0,1201.0,80.4
+constraint-223827_p4.smt2,,to,unknown,1201.0,0,1201.0,79.0
+constraint-223827_p5.smt2,,to,unknown,1201.0,0,1201.0,72.4
+constraint-223827_p6.smt2,,to,unknown,1201.0,0,1201.0,74.7
+constraint-223827_p7.smt2,,to,unknown,1201.0,0,1200.9,77.7
+constraint-223827_p8.smt2,,to,unknown,1201.0,0,1201.0,75.3
+constraint-223827_p9.smt2,,to,unknown,1201.0,0,1201.0,72.0

@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1199.0,1426.3
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p1.smt2,,ok,unsat,92.4,0,89.9,1117.2
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p10.smt2,,ok,unsat,88.8,0,88.1,1117.3
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p11.smt2,,ok,unsat,89.8,0,87.2,1116.5
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p12.smt2,,ok,unsat,90.6,0,88.5,1116.8
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p13.smt2,,ok,unsat,89.5,0,88.1,1117.6
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p14.smt2,,ok,unsat,89.7,0,87.1,1117.1
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p15.smt2,,ok,unsat,90.9,0,89.5,1116.8
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p2.smt2,,ok,unsat,90.4,0,89.0,1117.6
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p3.smt2,,ok,unsat,90.7,0,88.1,1117.4
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p4.smt2,,ok,unsat,91.0,0,88.9,1117.2
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p5.smt2,,ok,unsat,91.6,0,89.2,1117.0
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p6.smt2,,ok,unsat,90.2,0,87.7,1117.2
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p7.smt2,,ok,unsat,89.7,0,87.2,1116.5
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p8.smt2,,ok,unsat,89.7,0,88.2,1117.0
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate_p9.smt2,,ok,unsat,89.9,0,88.4,1117.2

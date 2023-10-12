@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,7.5,0,7.2,102.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,164.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p10.smt2,,to,unknown,1201.0,0,1200.9,192.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p11.smt2,,to,unknown,1201.0,0,1200.9,164.4
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p12.smt2,,to,unknown,1201.0,0,1200.9,187.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p13.smt2,,to,unknown,1201.0,0,1200.8,187.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p14.smt2,,to,unknown,1201.0,0,1200.9,199.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p15.smt2,,to,unknown,1201.0,0,1200.9,200.4
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1200.9,186.6
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,194.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1200.8,178.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p5.smt2,,to,unknown,1201.0,0,1200.9,194.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p6.smt2,,to,unknown,1201.0,0,1200.9,173.3
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1200.9,194.4
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p8.smt2,,to,unknown,1201.0,0,1200.9,177.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p9.smt2,,to,unknown,1201.0,0,1200.9,203.4

@@ -1,0 +1,3 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+uart-38.base.cvc_p0.smt2,,ok,unsat,0.6,0,0.5,13.4
+uart-38.base.cvc_p1.smt2,,ok,unsat,675.4,0,675.3,83.7

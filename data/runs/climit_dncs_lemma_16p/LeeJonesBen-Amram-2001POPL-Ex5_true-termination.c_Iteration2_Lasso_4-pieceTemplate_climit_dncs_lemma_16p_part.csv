@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.9,270.7
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,303.9
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p10.smt2,,ok,unsat,197.8,0,197.8,227.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p11.smt2,,ok,unsat,142.4,0,142.0,224.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p12.smt2,,ok,unsat,148.0,0,147.9,224.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p13.smt2,,ok,unsat,150.1,0,149.6,224.9
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p14.smt2,,ok,unsat,146.1,0,146.0,225.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p15.smt2,,ok,unsat,389.1,0,388.9,236.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,134.3,0,134.2,225.2
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1201.0,270.6
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p4.smt2,,ok,unsat,147.9,0,147.8,224.2
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p5.smt2,,ok,unsat,160.4,0,160.3,225.2
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p6.smt2,,ok,unsat,130.1,0,130.0,224.9
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,133.6,0,133.6,225.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p8.smt2,,ok,unsat,143.3,0,143.3,224.4
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_4-pieceTemplate_p9.smt2,,ok,unsat,152.3,0,152.2,225.0

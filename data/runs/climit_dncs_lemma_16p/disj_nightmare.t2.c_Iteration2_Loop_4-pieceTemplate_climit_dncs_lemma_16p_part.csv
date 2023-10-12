@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p0.smt2,,ok,sat,744.3,0,744.1,414.8
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p1.smt2,,ok,sat,565.5,0,565.4,388.0
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p10.smt2,,ok,sat,1108.1,0,1108.0,497.7
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p11.smt2,,to,unknown,1201.0,0,1200.9,508.5
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p12.smt2,,ok,sat,1110.0,0,1109.9,494.0
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p13.smt2,,ok,sat,1127.1,0,1126.9,560.7
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p14.smt2,,ok,sat,1102.5,0,1102.4,480.3
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p15.smt2,,ok,sat,867.8,0,867.4,478.3
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p2.smt2,,ok,sat,1000.3,0,1000.2,456.4
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p3.smt2,,ok,sat,715.5,0,715.4,455.5
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1200.8,465.8
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p5.smt2,,to,unknown,1201.0,0,1200.9,473.5
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p6.smt2,,ok,sat,1140.0,0,1139.8,479.5
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p7.smt2,,ok,sat,1054.8,0,1054.7,462.4
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p8.smt2,,ok,sat,1178.2,0,1178.1,495.2
+disj_nightmare.t2.c_Iteration2_Loop_4-pieceTemplate_p9.smt2,,ok,sat,936.3,0,936.2,442.7

@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p0.smt2,,ok,sat,834.2,0,834.0,756.7
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p1.smt2,,ok,sat,853.1,0,852.9,658.4
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p2.smt2,,ok,sat,690.7,0,690.5,757.2
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p3.smt2,,ok,sat,598.3,0,598.1,642.3
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p4.smt2,,ok,sat,683.6,0,683.4,639.5
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p5.smt2,,ok,sat,677.1,0,677.0,645.2
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p6.smt2,,ok,sat,695.7,0,695.5,623.3
+simple-scaled200.bpl_Iteration1_Lasso_5-phaseTemplate_p7.smt2,,ok,sat,693.8,0,693.6,628.0

@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_84_p0.smt2,,to,unknown,1201.0,0,1200.7,745.7
+smtcomp_84_p1.smt2,,ok,unsat,5.7,0,5.4,78.2
+smtcomp_84_p2.smt2,,ok,unsat,5.6,0,5.5,77.6
+smtcomp_84_p3.smt2,,to,unknown,1201.0,0,1200.9,748.0

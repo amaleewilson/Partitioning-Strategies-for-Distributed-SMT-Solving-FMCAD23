@@ -1,0 +1,10 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,unsat,970.6,0,970.0,306.9
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,unsat,1156.6,0,1155.5,313.9
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,749.0,0,748.7,316.1
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,unsat,911.1,0,910.4,310.3
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,unsat,848.2,0,847.5,309.0
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,ok,unsat,811.3,0,810.2,306.3
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,to,unknown,1201.0,0,1200.5,338.2
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,907.8,0,907.0,315.7
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Lasso_4-pieceTemplate_p8.smt2,,ok,unsat,871.7,0,870.6,311.7

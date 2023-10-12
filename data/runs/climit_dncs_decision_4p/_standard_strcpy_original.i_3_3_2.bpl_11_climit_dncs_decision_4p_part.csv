@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_strcpy_original.i_3_3_2.bpl_11_p0.smt2,,ok,unsat,31.9,0,31.9,18.6
+_standard_strcpy_original.i_3_3_2.bpl_11_p1.smt2,,ok,unsat,33.8,0,33.7,20.5
+_standard_strcpy_original.i_3_3_2.bpl_11_p2.smt2,,ok,unsat,0.8,0,0.8,12.7
+_standard_strcpy_original.i_3_3_2.bpl_11_p3.smt2,,ok,unsat,826.6,0,826.6,55.7

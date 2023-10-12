@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,sat,855.9,0,855.8,470.7
+simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,sat,884.6,0,884.5,526.4
+simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,sat,1049.8,0,1049.7,610.3
+simple-scaled100.bpl_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,sat,827.7,0,827.4,609.8

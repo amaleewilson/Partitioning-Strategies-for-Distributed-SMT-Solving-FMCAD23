@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_64_p0.smt2,,ok,unsat,3.8,0,3.7,58.0
+smtcomp_64_p1.smt2,,ok,unsat,3.7,0,3.7,58.2
+smtcomp_64_p2.smt2,,ok,unsat,3.6,0,3.6,58.6
+smtcomp_64_p3.smt2,,ok,unsat,3.7,0,3.7,58.7
+smtcomp_64_p4.smt2,,ok,unsat,3.7,0,3.6,58.9
+smtcomp_64_p5.smt2,,ok,unsat,3.7,0,3.6,57.5
+smtcomp_64_p6.smt2,,ok,unsat,3.7,0,3.6,58.5
+smtcomp_64_p7.smt2,,to,unknown,1201.0,0,1201.0,696.9

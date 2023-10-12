@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,14.5,0,14.4,100.7
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,518.7
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,14.5,0,14.4,101.2
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,458.9
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,27.1,0,27.0,327.5
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,14.5,0,14.4,101.2
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,26.8,0,26.6,313.6
+firewire.t2.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1200.9,452.4

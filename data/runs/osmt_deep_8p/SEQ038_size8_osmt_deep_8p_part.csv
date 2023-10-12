@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+SEQ038_size8_p0.smt2,,ok,unsat,142.1,0,142.1,25.1
+SEQ038_size8_p1.smt2,,ok,unsat,30.8,0,30.7,20.6
+SEQ038_size8_p2.smt2,,ok,unsat,640.9,0,640.8,62.9
+SEQ038_size8_p3.smt2,,ok,unsat,81.9,0,81.9,23.7
+SEQ038_size8_p4.smt2,,ok,unsat,132.1,0,132.0,26.0
+SEQ038_size8_p5.smt2,,ok,unsat,23.3,0,23.3,19.1
+SEQ038_size8_p6.smt2,,ok,unsat,32.0,0,32.0,19.9
+SEQ038_size8_p7.smt2,,ok,unsat,11.0,0,11.0,19.1

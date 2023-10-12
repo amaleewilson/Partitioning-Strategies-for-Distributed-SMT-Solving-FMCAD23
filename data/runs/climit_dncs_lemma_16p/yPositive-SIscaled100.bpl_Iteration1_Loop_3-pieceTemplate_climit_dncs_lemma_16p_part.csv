@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p0.smt2,,ok,unsat,193.1,0,193.1,316.4
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p1.smt2,,ok,unsat,21.8,0,21.7,186.2
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p10.smt2,,ok,unsat,18.2,0,18.0,171.5
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p11.smt2,,ok,unsat,18.0,0,17.9,171.7
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p12.smt2,,ok,unsat,18.3,0,18.3,171.8
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p13.smt2,,ok,unsat,18.2,0,18.1,172.0
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p14.smt2,,ok,unsat,18.3,0,18.2,172.0
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p15.smt2,,ok,unsat,18.4,0,18.3,172.2
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p2.smt2,,ok,unsat,22.2,0,22.1,185.8
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p3.smt2,,ok,unsat,22.3,0,22.3,185.9
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p4.smt2,,ok,unsat,20.4,0,20.3,183.6
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p5.smt2,,ok,unsat,21.1,0,21.1,183.6
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p6.smt2,,ok,unsat,20.6,0,20.5,183.5
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p7.smt2,,ok,unsat,20.6,0,20.5,183.3
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p8.smt2,,ok,unsat,20.3,0,20.2,183.4
+yPositive-SIscaled100.bpl_Iteration1_Loop_3-pieceTemplate_p9.smt2,,ok,unsat,20.9,0,20.9,183.3

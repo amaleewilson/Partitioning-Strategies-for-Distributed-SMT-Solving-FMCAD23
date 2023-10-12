@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.9,200.6
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.8,188.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1200.8,176.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,173.6
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1200.9,175.7
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p5.smt2,,to,unknown,1201.0,0,1200.9,173.4
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,8.0,0,7.9,105.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1201.0,189.9

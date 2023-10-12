@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate_p0.smt2,,ok,unsat,956.0,0,955.6,296.0
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate_p1.smt2,,ok,unsat,758.5,0,758.3,289.8
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate_p2.smt2,,ok,unsat,942.7,0,942.5,294.8
+Ben-Amram-2010LMCS-Ex2.3_true-termination.c_Iteration1_Loop_4-pieceTemplate_p3.smt2,,ok,unsat,820.2,0,820.0,299.6

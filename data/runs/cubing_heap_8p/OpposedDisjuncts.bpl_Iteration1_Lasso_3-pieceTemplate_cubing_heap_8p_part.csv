@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,5.1,0,5.1,35.8
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,unsat,4.9,0,4.9,35.1
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,4.9,0,4.9,36.0
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,4.9,0,4.9,36.2
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,1181.7,0,1181.6,204.8
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,4.9,0,4.9,35.2
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,5.0,0,5.0,36.0
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,unsat,5.1,0,5.0,35.8

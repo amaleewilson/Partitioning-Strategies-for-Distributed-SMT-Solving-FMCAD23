@@ -1,0 +1,10 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_306_p0.smt2,,to,unknown,1201.0,0,1201.0,379.7
+smtcomp_306_p1.smt2,,to,unknown,1201.0,0,1200.9,239.4
+smtcomp_306_p2.smt2,,to,unknown,1201.0,0,1200.9,225.1
+smtcomp_306_p3.smt2,,to,unknown,1201.0,0,1200.9,292.8
+smtcomp_306_p4.smt2,,to,unknown,1201.0,0,1200.9,390.2
+smtcomp_306_p5.smt2,,to,unknown,1201.0,0,1201.0,232.4
+smtcomp_306_p6.smt2,,to,unknown,1201.0,0,1200.9,294.0
+smtcomp_306_p7.smt2,,to,unknown,1201.0,0,1201.0,433.0
+smtcomp_306_p8.smt2,,to,unknown,1201.0,0,1200.9,194.4

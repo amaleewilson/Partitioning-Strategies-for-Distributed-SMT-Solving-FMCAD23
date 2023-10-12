@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+uart-39.base.cvc_p0.smt2,,ok,unsat,29.4,0,29.3,56.6
+uart-39.base.cvc_p1.smt2,,ok,unsat,2.4,0,2.3,42.7
+uart-39.base.cvc_p10.smt2,,ok,unsat,63.7,0,63.6,62.8
+uart-39.base.cvc_p11.smt2,,ok,unsat,27.4,0,27.3,58.9
+uart-39.base.cvc_p12.smt2,,ok,unsat,23.9,0,23.8,57.1
+uart-39.base.cvc_p13.smt2,,ok,unsat,22.1,0,22.0,56.8
+uart-39.base.cvc_p14.smt2,,ok,unsat,17.8,0,17.5,55.2
+uart-39.base.cvc_p15.smt2,,ok,unsat,92.6,0,92.5,67.1
+uart-39.base.cvc_p2.smt2,,ok,unsat,19.6,0,19.6,59.1
+uart-39.base.cvc_p3.smt2,,ok,unsat,48.9,0,48.8,59.7
+uart-39.base.cvc_p4.smt2,,ok,unsat,95.7,0,95.5,66.7
+uart-39.base.cvc_p5.smt2,,ok,unsat,35.3,0,35.3,58.5
+uart-39.base.cvc_p6.smt2,,ok,unsat,40.4,0,40.0,59.9
+uart-39.base.cvc_p7.smt2,,ok,unsat,184.2,0,184.2,73.1
+uart-39.base.cvc_p8.smt2,,ok,unsat,39.4,0,39.4,60.0
+uart-39.base.cvc_p9.smt2,,ok,unsat,17.8,0,17.8,55.2

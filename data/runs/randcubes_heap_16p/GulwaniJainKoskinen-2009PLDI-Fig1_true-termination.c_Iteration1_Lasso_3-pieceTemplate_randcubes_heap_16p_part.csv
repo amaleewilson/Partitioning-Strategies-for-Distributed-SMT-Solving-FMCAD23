@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.9,780.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,unsat,500.2,0,500.0,765.2
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p10.smt2,,ok,unsat,51.4,0,51.3,614.4
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p11.smt2,,ok,unsat,51.0,0,50.8,614.8
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p12.smt2,,ok,unsat,51.3,0,51.2,614.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p13.smt2,,ok,unsat,52.2,0,51.9,614.0
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p14.smt2,,ok,unsat,51.3,0,51.2,614.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p15.smt2,,ok,unsat,51.8,0,51.7,614.3
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,51.8,0,51.6,614.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,53.7,0,53.5,614.7
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1200.9,794.4
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,187.5,0,187.0,763.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,54.4,0,54.1,614.9
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,unsat,51.6,0,51.4,614.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p8.smt2,,ok,unsat,51.3,0,51.1,614.6
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p9.smt2,,ok,unsat,51.4,0,51.0,614.4

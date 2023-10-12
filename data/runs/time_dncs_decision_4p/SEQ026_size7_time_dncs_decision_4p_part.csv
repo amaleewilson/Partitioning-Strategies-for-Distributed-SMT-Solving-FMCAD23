@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+SEQ026_size7_p0.smt2,,ok,unsat,109.8,0,109.8,43.0
+SEQ026_size7_p1.smt2,,ok,unsat,189.8,0,189.8,44.8
+SEQ026_size7_p2.smt2,,ok,unsat,80.6,0,80.6,42.8
+SEQ026_size7_p3.smt2,,to,unknown,1201.0,0,1200.9,55.9

@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,sat,1111.8,0,1111.7,157.5
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,unsat,5.7,0,5.6,74.4
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,sat,746.7,0,746.6,148.4
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,5.5,0,5.4,74.2

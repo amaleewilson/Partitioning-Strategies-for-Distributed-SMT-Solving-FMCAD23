@@ -1,0 +1,2 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+0110-labyrinth-16-0_p0.smt2,,ok,sat,688.4,0,687.5,1523.4

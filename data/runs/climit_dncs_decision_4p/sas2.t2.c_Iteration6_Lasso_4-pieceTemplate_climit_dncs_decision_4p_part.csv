@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sas2.t2.c_Iteration6_Lasso_4-pieceTemplate_p0.smt2,,ok,unsat,19.6,0,19.4,198.5
+sas2.t2.c_Iteration6_Lasso_4-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.7,367.4
+sas2.t2.c_Iteration6_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,18.8,0,18.8,199.2
+sas2.t2.c_Iteration6_Lasso_4-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,352.1

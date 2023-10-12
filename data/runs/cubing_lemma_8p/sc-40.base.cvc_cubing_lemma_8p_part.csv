@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sc-40.base.cvc_p0.smt2,,ok,unsat,187.4,0,187.4,61.6
+sc-40.base.cvc_p1.smt2,,ok,unsat,416.3,0,416.2,57.4
+sc-40.base.cvc_p2.smt2,,ok,unsat,485.6,0,485.5,67.2
+sc-40.base.cvc_p3.smt2,,ok,unsat,435.7,0,435.7,62.9
+sc-40.base.cvc_p4.smt2,,ok,unsat,131.9,0,131.8,55.1
+sc-40.base.cvc_p5.smt2,,ok,unsat,2.1,0,2.0,29.2
+sc-40.base.cvc_p6.smt2,,ok,unsat,9.4,0,9.3,33.9
+sc-40.base.cvc_p7.smt2,,ok,unsat,5.0,0,5.0,33.4

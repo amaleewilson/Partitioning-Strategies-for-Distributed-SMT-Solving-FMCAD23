@@ -1,0 +1,6 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate_p0.smt2,,ok,unsat,186.5,0,186.5,395.3
+yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate_p1.smt2,,ok,unsat,15.1,0,15.0,146.2
+yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate_p2.smt2,,ok,unsat,14.9,0,14.8,147.0
+yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate_p3.smt2,,ok,unsat,15.4,0,15.4,147.5
+yPositive-SIscaled75.bpl_Iteration1_Loop_3-pieceTemplate_p4.smt2,,ok,unsat,14.9,0,14.8,147.5

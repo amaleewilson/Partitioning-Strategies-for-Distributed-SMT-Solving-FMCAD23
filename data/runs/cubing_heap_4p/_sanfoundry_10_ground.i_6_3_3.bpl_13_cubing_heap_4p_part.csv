@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p0.smt2,,ok,unsat,6.5,0,6.4,37.2
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p1.smt2,,to,unknown,1201.0,0,1200.8,260.5
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p2.smt2,,ok,unsat,6.5,0,6.4,37.0
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p3.smt2,,ok,unsat,6.4,0,6.4,37.7

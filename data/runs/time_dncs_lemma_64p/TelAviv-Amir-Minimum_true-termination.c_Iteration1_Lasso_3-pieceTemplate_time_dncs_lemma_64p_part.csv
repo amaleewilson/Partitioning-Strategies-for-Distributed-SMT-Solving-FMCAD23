@@ -1,0 +1,16 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1199.0,988.2
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,unsat,63.5,0,62.0,873.9
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p10.smt2,,ok,unsat,63.3,0,61.9,874.4
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p11.smt2,,ok,unsat,64.4,0,62.3,873.6
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p12.smt2,,ok,unsat,63.3,0,62.0,874.1
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p13.smt2,,ok,unsat,64.3,0,63.3,874.2
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p14.smt2,,ok,unsat,63.6,0,62.1,874.5
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,63.3,0,62.1,874.2
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,63.7,0,62.2,873.4
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,64.7,0,62.7,873.6
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,63.9,0,61.9,874.2
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,63.1,0,61.9,874.2
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,unsat,63.8,0,62.1,874.0
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p8.smt2,,ok,unsat,64.5,0,62.6,874.4
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p9.smt2,,ok,unsat,63.7,0,61.9,874.0

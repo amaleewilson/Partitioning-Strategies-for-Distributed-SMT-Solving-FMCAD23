@@ -1,0 +1,4 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+hongyi1.t2.c_Iteration1_Loop_3-pieceTemplate_p0.smt2,,ok,sat,1011.0,0,1010.8,763.4
+hongyi1.t2.c_Iteration1_Loop_3-pieceTemplate_p1.smt2,,ok,unsat,43.1,0,42.9,580.5
+hongyi1.t2.c_Iteration1_Loop_3-pieceTemplate_p2.smt2,,ok,sat,977.4,0,977.2,731.4

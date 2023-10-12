@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,sat,968.4,0,968.4,387.4
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,sat,991.4,0,991.3,391.8
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,sat,999.5,0,999.4,395.4
+GcdNew.bpl_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,sat,1075.6,0,1075.5,433.1

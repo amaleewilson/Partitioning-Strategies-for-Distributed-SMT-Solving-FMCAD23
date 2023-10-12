@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,46.1,0,45.8,294.9
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,unsat,45.8,0,45.5,295.3
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p10.smt2,,ok,unsat,45.8,0,45.6,295.0
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p11.smt2,,ok,unsat,45.6,0,45.5,295.0
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p12.smt2,,ok,unsat,46.0,0,45.8,294.9
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p13.smt2,,ok,unsat,46.0,0,45.8,295.4
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p14.smt2,,ok,unsat,45.8,0,45.7,295.2
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p15.smt2,,ok,unsat,45.7,0,45.6,294.8
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,46.0,0,45.8,295.0
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,45.7,0,45.6,295.4
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,46.1,0,45.9,295.6
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,46.9,0,46.8,294.9
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,46.5,0,46.3,295.0
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,unsat,45.8,0,45.7,295.1
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p8.smt2,,ok,unsat,1063.5,0,1063.3,1076.4
+KroeningSharyginaTsitovichWintersteiger-2010CAV-Fig1_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p9.smt2,,ok,unsat,46.1,0,46.0,295.0

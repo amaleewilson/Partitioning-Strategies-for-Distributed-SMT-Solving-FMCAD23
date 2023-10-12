@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate_p0.smt2,,ok,unsat,33.6,0,33.3,279.8
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.8,975.2
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate_p2.smt2,,ok,unsat,34.8,0,34.4,283.0
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Loop_3-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,965.5

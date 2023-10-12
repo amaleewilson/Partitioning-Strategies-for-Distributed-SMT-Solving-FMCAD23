@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,sat,783.8,0,783.7,484.4
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,ok,sat,694.6,0,694.4,469.5
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p10.smt2,,ok,unsat,609.8,0,609.7,456.9
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p11.smt2,,ok,unsat,563.1,0,562.9,442.5
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p12.smt2,,ok,unsat,177.3,0,177.2,437.7
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p13.smt2,,ok,unsat,606.0,0,605.8,457.9
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p14.smt2,,ok,unsat,568.0,0,567.9,443.3
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p15.smt2,,ok,unsat,625.2,0,625.1,514.8
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,sat,822.5,0,822.4,533.7
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,sat,835.6,0,835.5,517.9
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,unsat,646.1,0,646.0,509.4
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,ok,unsat,564.8,0,564.7,442.8
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,ok,unsat,604.8,0,604.7,457.2
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,569.1,0,569.0,442.0
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p8.smt2,,ok,unsat,605.6,0,605.5,451.6
+SyntaxSupportDivision1.bpl_Iteration1_Lasso_4-pieceTemplate_p9.smt2,,ok,unsat,572.9,0,572.8,442.4

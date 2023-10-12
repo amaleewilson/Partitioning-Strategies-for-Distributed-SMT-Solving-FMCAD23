@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+simple_startup_14nodes.abstract.induct_p0.smt2,,ok,unsat,570.5,0,570.4,203.0
+simple_startup_14nodes.abstract.induct_p1.smt2,,ok,unsat,162.0,0,161.9,117.1
+simple_startup_14nodes.abstract.induct_p10.smt2,,ok,unsat,2.3,0,2.3,49.5
+simple_startup_14nodes.abstract.induct_p11.smt2,,ok,unsat,104.9,0,104.8,97.2
+simple_startup_14nodes.abstract.induct_p12.smt2,,ok,unsat,2.3,0,2.2,49.5
+simple_startup_14nodes.abstract.induct_p13.smt2,,ok,unsat,89.8,0,89.8,94.2
+simple_startup_14nodes.abstract.induct_p14.smt2,,ok,unsat,2.5,0,2.5,51.7
+simple_startup_14nodes.abstract.induct_p15.smt2,,ok,unsat,662.8,0,662.7,232.1
+simple_startup_14nodes.abstract.induct_p2.smt2,,ok,unsat,2.3,0,2.3,50.1
+simple_startup_14nodes.abstract.induct_p3.smt2,,ok,unsat,151.3,0,151.2,124.3
+simple_startup_14nodes.abstract.induct_p4.smt2,,ok,unsat,2.2,0,2.1,48.5
+simple_startup_14nodes.abstract.induct_p5.smt2,,ok,unsat,118.7,0,118.6,105.9
+simple_startup_14nodes.abstract.induct_p6.smt2,,ok,unsat,2.2,0,2.2,48.5
+simple_startup_14nodes.abstract.induct_p7.smt2,,ok,unsat,108.3,0,108.1,105.7
+simple_startup_14nodes.abstract.induct_p8.smt2,,ok,unsat,2.3,0,2.2,48.1
+simple_startup_14nodes.abstract.induct_p9.smt2,,ok,unsat,103.3,0,103.3,102.3

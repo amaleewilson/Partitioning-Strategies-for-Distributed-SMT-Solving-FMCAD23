@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p0.smt2,,to,unknown,1201.0,0,1201.0,555.6
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p1.smt2,,ok,unsat,39.8,0,39.7,283.9
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p10.smt2,,ok,sat,655.3,0,655.2,470.9
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p11.smt2,,ok,unsat,39.5,0,39.4,283.8
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p12.smt2,,ok,sat,821.9,0,821.8,584.8
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p13.smt2,,ok,unsat,39.4,0,39.3,284.7
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p14.smt2,,ok,sat,927.3,0,927.2,544.2
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p15.smt2,,ok,unsat,39.3,0,39.2,283.2
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p2.smt2,,ok,sat,785.3,0,785.2,547.8
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p3.smt2,,ok,unsat,39.7,0,39.6,284.1
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p4.smt2,,ok,sat,142.1,0,142.1,443.6
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p5.smt2,,ok,unsat,39.3,0,39.2,283.8
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p6.smt2,,ok,sat,957.1,0,957.0,580.7
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p7.smt2,,ok,unsat,39.3,0,39.2,283.4
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p8.smt2,,ok,sat,607.9,0,607.8,474.5
+sumit.t2.c_Iteration2_Loop_7-phaseTemplate_p9.smt2,,ok,unsat,39.5,0,39.4,283.4

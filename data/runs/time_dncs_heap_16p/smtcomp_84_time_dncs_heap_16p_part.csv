@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_84_p0.smt2,,to,unknown,1201.0,0,1201.0,745.9
+smtcomp_84_p1.smt2,,ok,unsat,5.7,0,5.6,77.8
+smtcomp_84_p10.smt2,,ok,unsat,5.6,0,5.5,77.5
+smtcomp_84_p11.smt2,,ok,unsat,5.5,0,5.4,77.2
+smtcomp_84_p12.smt2,,ok,unsat,5.7,0,5.6,78.0
+smtcomp_84_p13.smt2,,ok,unsat,5.6,0,5.5,77.3
+smtcomp_84_p14.smt2,,ok,unsat,5.6,0,5.5,77.7
+smtcomp_84_p15.smt2,,to,unknown,1201.0,0,1201.0,748.0
+smtcomp_84_p2.smt2,,ok,unsat,5.7,0,5.5,77.3
+smtcomp_84_p3.smt2,,ok,unsat,5.5,0,5.5,78.2
+smtcomp_84_p4.smt2,,ok,unsat,5.7,0,5.6,77.7
+smtcomp_84_p5.smt2,,ok,unsat,5.5,0,5.4,77.7
+smtcomp_84_p6.smt2,,ok,unsat,5.6,0,5.5,77.9
+smtcomp_84_p7.smt2,,ok,unsat,5.5,0,5.4,77.5
+smtcomp_84_p8.smt2,,ok,unsat,5.6,0,5.5,78.6
+smtcomp_84_p9.smt2,,ok,unsat,5.5,0,5.4,77.7

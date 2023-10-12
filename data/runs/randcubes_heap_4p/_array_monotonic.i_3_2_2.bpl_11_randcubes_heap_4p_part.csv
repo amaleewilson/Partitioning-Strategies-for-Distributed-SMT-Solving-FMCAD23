@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_array_monotonic.i_3_2_2.bpl_11_p0.smt2,,ok,unsat,866.3,0,866.2,93.3
+_array_monotonic.i_3_2_2.bpl_11_p1.smt2,,ok,unsat,453.4,0,453.3,51.5
+_array_monotonic.i_3_2_2.bpl_11_p2.smt2,,ok,unsat,6.2,0,6.1,15.0
+_array_monotonic.i_3_2_2.bpl_11_p3.smt2,,ok,unsat,2.5,0,2.5,12.1

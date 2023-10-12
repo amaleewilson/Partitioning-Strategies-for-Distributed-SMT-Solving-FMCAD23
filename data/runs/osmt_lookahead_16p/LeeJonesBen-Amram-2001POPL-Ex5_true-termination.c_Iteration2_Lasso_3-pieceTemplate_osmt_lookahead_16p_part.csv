@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.5,169.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.6,184.2
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p10.smt2,,to,unknown,1201.0,0,1200.6,181.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p11.smt2,,to,unknown,1201.0,0,1200.6,199.2
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p12.smt2,,to,unknown,1201.0,0,1200.6,167.6
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p13.smt2,,to,unknown,1201.0,0,1200.4,186.9
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p14.smt2,,to,unknown,1201.0,0,1200.6,174.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p15.smt2,,to,unknown,1201.0,0,1200.5,199.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1200.6,197.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.6,160.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,838.1,0,837.6,164.0
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p5.smt2,,to,unknown,1201.0,0,1200.6,187.1
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p6.smt2,,to,unknown,1201.0,0,1200.6,171.5
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1200.6,184.7
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p8.smt2,,to,unknown,1201.0,0,1200.6,202.8
+LeeJonesBen-Amram-2001POPL-Ex5_true-termination.c_Iteration2_Lasso_3-pieceTemplate_p9.smt2,,ok,unsat,1082.3,0,1081.9,177.0

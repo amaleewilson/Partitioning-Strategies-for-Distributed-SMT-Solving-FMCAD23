@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,9.4,0,9.4,115.3
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,unsat,601.4,0,601.3,164.7
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p10.smt2,,ok,unsat,9.5,0,9.3,115.5
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p11.smt2,,ok,unsat,808.4,0,808.3,176.8
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p12.smt2,,ok,unsat,9.7,0,9.7,115.4
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p13.smt2,,ok,unsat,882.7,0,882.7,181.5
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p14.smt2,,to,unknown,1201.0,0,1201.0,184.8
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p15.smt2,,ok,unsat,917.6,0,917.4,183.5
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,unsat,9.7,0,9.7,114.7
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,unsat,1082.4,0,1082.4,215.9
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,unsat,9.4,0,9.3,115.8
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,unsat,584.4,0,584.4,176.2
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,unsat,564.7,0,564.6,162.7
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,unsat,1114.0,0,1113.9,182.5
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p8.smt2,,ok,unsat,9.5,0,9.4,115.2
+OpposedDisjuncts.bpl_Iteration1_Lasso_3-pieceTemplate_p9.smt2,,ok,unsat,567.9,0,567.8,160.1

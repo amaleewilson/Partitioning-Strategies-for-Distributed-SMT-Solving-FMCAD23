@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sas2.t2.c_Iteration7_Loop_4-pieceTemplate_p0.smt2,,ok,unsat,631.4,0,631.1,538.1
+sas2.t2.c_Iteration7_Loop_4-pieceTemplate_p1.smt2,,ok,unsat,546.1,0,545.9,531.6
+sas2.t2.c_Iteration7_Loop_4-pieceTemplate_p2.smt2,,ok,unsat,821.7,0,821.5,618.2
+sas2.t2.c_Iteration7_Loop_4-pieceTemplate_p3.smt2,,ok,unsat,678.5,0,678.3,610.3

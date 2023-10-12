@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-330061_p0.smt2,,to,unknown,1201.0,0,1200.9,86.9
+constraint-330061_p1.smt2,,ok,unsat,66.7,0,66.6,66.0
+constraint-330061_p10.smt2,,ok,unsat,176.3,0,176.3,80.1
+constraint-330061_p11.smt2,,to,unknown,1201.0,0,1200.9,114.6
+constraint-330061_p12.smt2,,to,unknown,1201.0,0,1200.9,83.6
+constraint-330061_p13.smt2,,to,unknown,1201.0,0,1200.9,121.4
+constraint-330061_p14.smt2,,ok,unsat,645.3,0,645.3,80.4
+constraint-330061_p15.smt2,,ok,unsat,195.2,0,195.1,79.0
+constraint-330061_p2.smt2,,to,unknown,1201.0,0,1201.0,84.3
+constraint-330061_p3.smt2,,ok,unsat,779.5,0,779.3,79.3
+constraint-330061_p4.smt2,,to,unknown,1201.0,0,1201.0,111.6
+constraint-330061_p5.smt2,,to,unknown,1201.0,0,1201.0,117.3
+constraint-330061_p6.smt2,,to,unknown,1201.0,0,1201.0,87.5
+constraint-330061_p7.smt2,,ok,unsat,89.6,0,89.5,66.1
+constraint-330061_p8.smt2,,to,unknown,1201.0,0,1200.9,115.5
+constraint-330061_p9.smt2,,to,unknown,1201.0,0,1200.9,112.9

@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.5,217.7
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.4,221.0
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p10.smt2,,ok,unsat,72.3,0,71.8,148.9
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p11.smt2,,to,unknown,1201.0,0,1200.4,212.4
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p12.smt2,,ok,unsat,10.9,0,10.5,122.8
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p13.smt2,,to,unknown,1201.0,0,1200.3,222.3
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p14.smt2,,to,unknown,1201.0,0,1200.6,222.9
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p15.smt2,,to,unknown,1201.0,0,1200.3,216.6
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,unsat,10.9,0,10.3,122.1
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,to,unknown,1201.0,0,1200.1,223.5
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,unsat,10.6,0,10.1,123.0
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,to,unknown,1201.0,0,1200.4,208.2
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,to,unknown,1201.0,0,1200.4,224.5
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,to,unknown,1201.0,0,1200.7,231.1
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p8.smt2,,to,unknown,1201.0,0,1200.2,225.7
+eric.t2.c_Iteration1_Lasso_4-pieceTemplate_p9.smt2,,to,unknown,1201.0,0,1200.7,212.5

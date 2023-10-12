@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+pp08a-7349_p0.smt2,,to,unknown,1201.0,0,1200.9,108.0
+pp08a-7349_p1.smt2,,to,unknown,1201.0,0,1200.9,120.5
+pp08a-7349_p10.smt2,,to,unknown,1201.0,0,1200.9,104.1
+pp08a-7349_p11.smt2,,to,unknown,1201.0,0,1201.0,103.8
+pp08a-7349_p12.smt2,,to,unknown,1201.0,0,1200.9,122.5
+pp08a-7349_p13.smt2,,to,unknown,1201.0,0,1200.9,105.2
+pp08a-7349_p14.smt2,,ok,unsat,224.7,0,224.7,23.4
+pp08a-7349_p15.smt2,,to,unknown,1201.0,0,1201.0,97.2
+pp08a-7349_p2.smt2,,to,unknown,1201.0,0,1200.9,111.8
+pp08a-7349_p3.smt2,,to,unknown,1201.0,0,1200.9,100.7
+pp08a-7349_p4.smt2,,to,unknown,1201.0,0,1201.0,101.7
+pp08a-7349_p5.smt2,,to,unknown,1201.0,0,1200.8,100.2
+pp08a-7349_p6.smt2,,to,unknown,1201.0,0,1201.0,129.3
+pp08a-7349_p7.smt2,,to,unknown,1201.0,0,1201.0,108.5
+pp08a-7349_p8.smt2,,to,unknown,1201.0,0,1200.9,94.1
+pp08a-7349_p9.smt2,,to,unknown,1201.0,0,1200.9,110.9

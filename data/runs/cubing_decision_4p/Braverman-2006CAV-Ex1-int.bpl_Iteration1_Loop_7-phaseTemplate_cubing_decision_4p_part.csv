@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p0.smt2,,ok,unsat,902.9,0,902.9,80.8
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p1.smt2,,to,unknown,1201.0,0,1201.0,89.8
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p2.smt2,,to,unknown,1201.0,0,1201.0,108.7
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p3.smt2,,to,unknown,1201.0,0,1201.0,102.3

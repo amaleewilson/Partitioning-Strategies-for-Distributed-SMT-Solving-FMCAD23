@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_array_single_elem_init.i_4_2_2.bpl_7_p0.smt2,,to,unknown,1201.0,0,1201.0,135.1
+_array_single_elem_init.i_4_2_2.bpl_7_p1.smt2,,ok,unsat,1.2,0,1.2,15.0
+_array_single_elem_init.i_4_2_2.bpl_7_p2.smt2,,ok,unsat,1.5,0,1.5,15.1
+_array_single_elem_init.i_4_2_2.bpl_7_p3.smt2,,ok,unsat,1.1,0,1.1,14.2
+_array_single_elem_init.i_4_2_2.bpl_7_p4.smt2,,ok,unsat,1.1,0,1.1,14.9
+_array_single_elem_init.i_4_2_2.bpl_7_p5.smt2,,ok,unsat,1.1,0,1.1,14.2
+_array_single_elem_init.i_4_2_2.bpl_7_p6.smt2,,ok,unsat,1.1,0,1.1,14.9
+_array_single_elem_init.i_4_2_2.bpl_7_p7.smt2,,ok,unsat,1.2,0,1.2,15.5

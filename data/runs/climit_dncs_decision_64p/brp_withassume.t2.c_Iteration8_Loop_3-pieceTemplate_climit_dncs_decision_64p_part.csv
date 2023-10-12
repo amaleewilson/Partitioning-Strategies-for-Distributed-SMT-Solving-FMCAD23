@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+brp_withassume.t2.c_Iteration8_Loop_3-pieceTemplate_p0.smt2,,ok,sat,1091.7,0,1091.5,892.2
+brp_withassume.t2.c_Iteration8_Loop_3-pieceTemplate_p1.smt2,,ok,unsat,54.4,0,54.3,719.3
+brp_withassume.t2.c_Iteration8_Loop_3-pieceTemplate_p2.smt2,,ok,sat,998.7,0,998.4,893.6
+brp_withassume.t2.c_Iteration8_Loop_3-pieceTemplate_p3.smt2,,ok,sat,1159.3,0,1159.0,916.1

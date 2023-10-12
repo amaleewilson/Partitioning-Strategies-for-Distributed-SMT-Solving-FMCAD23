@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_array_single_elem_init.i_4_2_2.bpl_7_p0.smt2,,ok,unsat,549.4,0,549.4,74.1
+_array_single_elem_init.i_4_2_2.bpl_7_p1.smt2,,to,unknown,1201.0,0,1201.0,119.3
+_array_single_elem_init.i_4_2_2.bpl_7_p10.smt2,,ok,unsat,684.4,0,684.4,93.1
+_array_single_elem_init.i_4_2_2.bpl_7_p11.smt2,,to,unknown,1201.0,0,1201.0,115.3
+_array_single_elem_init.i_4_2_2.bpl_7_p12.smt2,,ok,unsat,513.8,0,513.8,68.1
+_array_single_elem_init.i_4_2_2.bpl_7_p13.smt2,,to,unknown,1201.0,0,1200.9,124.8
+_array_single_elem_init.i_4_2_2.bpl_7_p14.smt2,,ok,unsat,556.0,0,555.9,69.6
+_array_single_elem_init.i_4_2_2.bpl_7_p15.smt2,,to,unknown,1201.0,0,1201.0,113.7
+_array_single_elem_init.i_4_2_2.bpl_7_p2.smt2,,ok,unsat,532.1,0,532.0,74.5
+_array_single_elem_init.i_4_2_2.bpl_7_p3.smt2,,to,unknown,1201.0,0,1201.0,112.3
+_array_single_elem_init.i_4_2_2.bpl_7_p4.smt2,,ok,unsat,532.0,0,532.0,60.3
+_array_single_elem_init.i_4_2_2.bpl_7_p5.smt2,,to,unknown,1201.0,0,1200.9,126.1
+_array_single_elem_init.i_4_2_2.bpl_7_p6.smt2,,ok,unsat,474.2,0,474.1,59.8
+_array_single_elem_init.i_4_2_2.bpl_7_p7.smt2,,to,unknown,1201.0,0,1200.9,115.0
+_array_single_elem_init.i_4_2_2.bpl_7_p8.smt2,,ok,unsat,485.6,0,485.6,69.3
+_array_single_elem_init.i_4_2_2.bpl_7_p9.smt2,,to,unknown,1201.0,0,1201.0,117.1

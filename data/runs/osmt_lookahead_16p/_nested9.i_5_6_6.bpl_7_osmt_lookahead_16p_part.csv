@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_nested9.i_5_6_6.bpl_7_p0.smt2,,ok,unsat,119.4,0,118.9,57.4
+_nested9.i_5_6_6.bpl_7_p1.smt2,,ok,unsat,516.1,0,515.6,71.3
+_nested9.i_5_6_6.bpl_7_p10.smt2,,ok,unsat,148.9,0,148.5,56.2
+_nested9.i_5_6_6.bpl_7_p11.smt2,,ok,unsat,141.4,0,141.0,58.6
+_nested9.i_5_6_6.bpl_7_p12.smt2,,ok,unsat,138.4,0,138.0,62.1
+_nested9.i_5_6_6.bpl_7_p13.smt2,,ok,unsat,135.2,0,134.9,56.6
+_nested9.i_5_6_6.bpl_7_p14.smt2,,ok,unsat,144.8,0,144.4,57.4
+_nested9.i_5_6_6.bpl_7_p15.smt2,,ok,unsat,108.2,0,107.7,58.1
+_nested9.i_5_6_6.bpl_7_p2.smt2,,ok,unsat,77.4,0,76.9,54.2
+_nested9.i_5_6_6.bpl_7_p3.smt2,,to,unknown,1201.0,0,1200.6,120.7
+_nested9.i_5_6_6.bpl_7_p4.smt2,,ok,unsat,133.3,0,132.8,58.6
+_nested9.i_5_6_6.bpl_7_p5.smt2,,to,unknown,1201.0,0,1200.6,126.7
+_nested9.i_5_6_6.bpl_7_p6.smt2,,ok,unsat,131.3,0,130.9,58.7
+_nested9.i_5_6_6.bpl_7_p7.smt2,,ok,unsat,91.3,0,90.8,54.9
+_nested9.i_5_6_6.bpl_7_p8.smt2,,ok,unsat,311.0,0,310.5,71.3
+_nested9.i_5_6_6.bpl_7_p9.smt2,,ok,unsat,136.2,0,135.7,56.8

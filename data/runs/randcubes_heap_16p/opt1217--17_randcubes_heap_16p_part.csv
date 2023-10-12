@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+opt1217--17_p0.smt2,,to,unknown,1201.0,0,1201.0,466.9
+opt1217--17_p1.smt2,,to,unknown,1201.0,0,1200.8,472.3
+opt1217--17_p10.smt2,,ok,unsat,1.4,0,1.4,25.9
+opt1217--17_p11.smt2,,ok,unsat,1.4,0,1.4,25.8
+opt1217--17_p12.smt2,,ok,unsat,1.5,0,1.4,26.6
+opt1217--17_p13.smt2,,ok,unsat,1.4,0,1.4,26.5
+opt1217--17_p14.smt2,,ok,unsat,1.5,0,1.4,26.4
+opt1217--17_p15.smt2,,ok,unsat,1.5,0,1.4,25.7
+opt1217--17_p2.smt2,,ok,unsat,2.3,0,2.2,26.8
+opt1217--17_p3.smt2,,ok,unsat,2.3,0,2.3,26.1
+opt1217--17_p4.smt2,,to,unknown,1201.0,0,1201.0,443.6
+opt1217--17_p5.smt2,,to,unknown,1201.0,0,1201.0,434.8
+opt1217--17_p6.smt2,,ok,unsat,3.8,0,3.8,26.7
+opt1217--17_p7.smt2,,ok,unsat,2.5,0,2.5,26.2
+opt1217--17_p8.smt2,,ok,unsat,1.5,0,1.5,26.4
+opt1217--17_p9.smt2,,ok,unsat,1.4,0,1.4,26.0

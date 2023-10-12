@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_103_p0.smt2,,ok,unsat,344.5,0,344.3,87.2
+smtcomp_103_p1.smt2,,ok,unsat,292.1,0,291.9,84.3
+smtcomp_103_p10.smt2,,ok,unsat,93.6,0,93.3,77.0
+smtcomp_103_p11.smt2,,to,unknown,1201.0,0,1200.7,117.0
+smtcomp_103_p12.smt2,,to,unknown,1201.0,0,1200.8,114.3
+smtcomp_103_p13.smt2,,ok,unsat,268.9,0,268.6,83.3
+smtcomp_103_p14.smt2,,to,unknown,1201.0,0,1200.7,115.9
+smtcomp_103_p15.smt2,,to,unknown,1201.0,0,1200.7,114.0
+smtcomp_103_p2.smt2,,to,unknown,1201.0,0,1200.7,108.8
+smtcomp_103_p3.smt2,,ok,unsat,954.4,0,954.1,102.5
+smtcomp_103_p4.smt2,,to,unknown,1201.0,0,1200.7,112.4
+smtcomp_103_p5.smt2,,ok,unsat,296.0,0,295.7,85.4
+smtcomp_103_p6.smt2,,ok,unsat,21.3,0,21.0,73.8
+smtcomp_103_p7.smt2,,ok,unsat,4.1,0,3.6,71.6
+smtcomp_103_p8.smt2,,ok,unsat,4.1,0,3.8,71.7
+smtcomp_103_p9.smt2,,ok,unsat,38.2,0,38.0,74.0

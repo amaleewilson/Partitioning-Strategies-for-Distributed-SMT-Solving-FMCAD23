@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_strcmp_ground.i_4_2_2.bpl_11_p0.smt2,,ok,unsat,910.4,0,910.3,101.9
+_standard_strcmp_ground.i_4_2_2.bpl_11_p1.smt2,,ok,unsat,3.2,0,3.2,45.0
+_standard_strcmp_ground.i_4_2_2.bpl_11_p2.smt2,,ok,unsat,11.4,0,11.3,54.6
+_standard_strcmp_ground.i_4_2_2.bpl_11_p3.smt2,,ok,unsat,3.3,0,3.2,45.4

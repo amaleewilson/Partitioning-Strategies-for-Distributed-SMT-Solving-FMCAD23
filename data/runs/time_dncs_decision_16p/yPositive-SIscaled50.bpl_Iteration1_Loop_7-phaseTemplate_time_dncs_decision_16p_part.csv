@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p0.smt2,,ok,sat,572.2,0,571.7,1273.4
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,1245.1
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p10.smt2,,ok,sat,599.5,0,599.1,1258.0
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p11.smt2,,ok,sat,649.0,0,648.2,1247.5
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p12.smt2,,to,unknown,1201.0,0,1200.5,2253.7
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p13.smt2,,to,unknown,1201.0,0,1200.7,2267.8
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p14.smt2,,to,unknown,1201.0,0,1200.7,1253.5
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p15.smt2,,to,unknown,1201.0,0,1200.5,1272.2
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p2.smt2,,ok,sat,877.5,0,877.0,1290.7
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p3.smt2,,to,unknown,1201.0,0,1200.3,1264.8
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p4.smt2,,to,unknown,1201.0,0,1200.5,2261.3
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p5.smt2,,ok,sat,586.3,0,585.9,1251.3
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p6.smt2,,to,unknown,1201.0,0,1200.3,1293.2
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p7.smt2,,ok,sat,1134.8,0,1134.2,1285.3
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p8.smt2,,ok,sat,1013.5,0,1012.8,1251.2
+yPositive-SIscaled50.bpl_Iteration1_Loop_7-phaseTemplate_p9.smt2,,ok,sat,782.9,0,782.5,1250.6

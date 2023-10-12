@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+fixnet-3000_p0.smt2,,to,unknown,1201.0,0,1201.0,176.5
+fixnet-3000_p1.smt2,,to,unknown,1201.0,0,1200.9,300.6
+fixnet-3000_p10.smt2,,ok,unsat,503.1,0,503.0,120.8
+fixnet-3000_p11.smt2,,ok,unsat,495.0,0,494.9,91.7
+fixnet-3000_p12.smt2,,to,unknown,1201.0,0,1200.9,245.6
+fixnet-3000_p13.smt2,,to,unknown,1201.0,0,1200.8,355.2
+fixnet-3000_p14.smt2,,ok,unsat,385.3,0,385.3,63.3
+fixnet-3000_p15.smt2,,ok,unsat,435.7,0,435.6,77.0
+fixnet-3000_p2.smt2,,to,unknown,1201.0,0,1201.0,183.9
+fixnet-3000_p3.smt2,,ok,unsat,515.9,0,515.8,87.0
+fixnet-3000_p4.smt2,,ok,unsat,508.2,0,508.1,94.8
+fixnet-3000_p5.smt2,,ok,unsat,458.9,0,458.8,90.5
+fixnet-3000_p6.smt2,,ok,unsat,55.1,0,55.0,35.3
+fixnet-3000_p7.smt2,,ok,unsat,92.5,0,92.5,37.6
+fixnet-3000_p8.smt2,,ok,unsat,515.0,0,514.9,94.5
+fixnet-3000_p9.smt2,,to,unknown,1201.0,0,1200.9,201.5

@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p0.smt2,,ok,unsat,138.7,0,138.3,1116.1
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p1.smt2,,ok,unsat,113.2,0,113.0,1112.9
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p2.smt2,,ok,unsat,89.5,0,88.5,1105.4
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p3.smt2,,ok,unsat,85.7,0,85.5,1104.0
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p4.smt2,,to,unknown,1201.0,0,1200.4,1132.6
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p5.smt2,,to,unknown,1201.0,0,1200.8,1130.2
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p6.smt2,,to,unknown,1201.0,0,1200.9,1130.1
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p7.smt2,,ok,unsat,87.4,0,87.1,1103.7

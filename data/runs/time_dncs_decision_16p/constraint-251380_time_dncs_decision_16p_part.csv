@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-251380_p0.smt2,,to,unknown,1201.0,0,1200.9,73.7
+constraint-251380_p1.smt2,,to,unknown,1201.0,0,1201.0,72.1
+constraint-251380_p10.smt2,,to,unknown,1201.0,0,1201.0,77.8
+constraint-251380_p11.smt2,,to,unknown,1201.0,0,1200.9,77.8
+constraint-251380_p12.smt2,,to,unknown,1201.0,0,1201.0,63.7
+constraint-251380_p13.smt2,,to,unknown,1201.0,0,1200.9,62.3
+constraint-251380_p14.smt2,,ok,unsat,1161.9,0,1161.8,71.0
+constraint-251380_p15.smt2,,to,unknown,1201.0,0,1200.9,73.2
+constraint-251380_p2.smt2,,to,unknown,1201.0,0,1201.0,76.0
+constraint-251380_p3.smt2,,to,unknown,1201.0,0,1200.9,76.9
+constraint-251380_p4.smt2,,to,unknown,1201.0,0,1200.9,76.1
+constraint-251380_p5.smt2,,to,unknown,1201.0,0,1200.8,76.8
+constraint-251380_p6.smt2,,to,unknown,1201.0,0,1201.0,77.1
+constraint-251380_p7.smt2,,to,unknown,1201.0,0,1201.0,76.6
+constraint-251380_p8.smt2,,to,unknown,1201.0,0,1200.9,76.4
+constraint-251380_p9.smt2,,to,unknown,1201.0,0,1201.0,76.8

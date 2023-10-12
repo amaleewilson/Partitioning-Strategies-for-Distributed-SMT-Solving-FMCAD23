@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_307_p0.smt2,,ok,unsat,3.1,0,2.7,55.4
+smtcomp_307_p1.smt2,,ok,unsat,3.0,0,2.7,55.4
+smtcomp_307_p10.smt2,,ok,unsat,2.6,0,2.2,23.2
+smtcomp_307_p11.smt2,,ok,unsat,2.4,0,2.2,22.1
+smtcomp_307_p12.smt2,,ok,unsat,2.4,0,2.2,22.6
+smtcomp_307_p13.smt2,,ok,unsat,2.6,0,2.2,23.2
+smtcomp_307_p14.smt2,,ok,unsat,2.6,0,2.2,23.3
+smtcomp_307_p15.smt2,,to,unknown,1201.0,0,1200.7,120.3
+smtcomp_307_p2.smt2,,ok,unsat,3.0,0,2.7,55.8
+smtcomp_307_p3.smt2,,ok,unsat,2.5,0,2.2,23.5
+smtcomp_307_p4.smt2,,ok,unsat,2.5,0,2.2,22.0
+smtcomp_307_p5.smt2,,ok,unsat,2.7,0,2.2,23.6
+smtcomp_307_p6.smt2,,ok,unsat,2.5,0,2.2,23.2
+smtcomp_307_p7.smt2,,ok,unsat,2.5,0,2.2,23.0
+smtcomp_307_p8.smt2,,ok,unsat,2.8,0,2.5,22.9
+smtcomp_307_p9.smt2,,ok,unsat,2.5,0,2.2,22.7

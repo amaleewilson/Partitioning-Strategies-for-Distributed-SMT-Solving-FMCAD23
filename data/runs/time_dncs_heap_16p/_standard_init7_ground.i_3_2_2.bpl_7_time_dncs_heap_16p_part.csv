@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_init7_ground.i_3_2_2.bpl_7_p0.smt2,,ok,unsat,853.6,0,853.5,157.4
+_standard_init7_ground.i_3_2_2.bpl_7_p1.smt2,,ok,unsat,906.2,0,906.2,157.8
+_standard_init7_ground.i_3_2_2.bpl_7_p10.smt2,,ok,unsat,1008.9,0,1008.9,173.5
+_standard_init7_ground.i_3_2_2.bpl_7_p11.smt2,,ok,unsat,874.3,0,874.2,155.1
+_standard_init7_ground.i_3_2_2.bpl_7_p12.smt2,,ok,unsat,912.7,0,912.6,161.2
+_standard_init7_ground.i_3_2_2.bpl_7_p13.smt2,,ok,unsat,970.8,0,970.7,171.6
+_standard_init7_ground.i_3_2_2.bpl_7_p14.smt2,,ok,unsat,751.7,0,751.6,140.5
+_standard_init7_ground.i_3_2_2.bpl_7_p15.smt2,,ok,unsat,1021.3,0,1021.2,186.3
+_standard_init7_ground.i_3_2_2.bpl_7_p2.smt2,,ok,unsat,660.0,0,659.8,127.2
+_standard_init7_ground.i_3_2_2.bpl_7_p3.smt2,,ok,unsat,830.6,0,830.5,143.8
+_standard_init7_ground.i_3_2_2.bpl_7_p4.smt2,,ok,unsat,895.7,0,895.6,165.9
+_standard_init7_ground.i_3_2_2.bpl_7_p5.smt2,,ok,unsat,860.8,0,860.7,159.5
+_standard_init7_ground.i_3_2_2.bpl_7_p6.smt2,,ok,unsat,788.2,0,788.1,142.6
+_standard_init7_ground.i_3_2_2.bpl_7_p7.smt2,,ok,unsat,7.6,0,7.5,28.5
+_standard_init7_ground.i_3_2_2.bpl_7_p8.smt2,,ok,unsat,932.9,0,932.8,163.4
+_standard_init7_ground.i_3_2_2.bpl_7_p9.smt2,,ok,unsat,989.1,0,989.0,170.7

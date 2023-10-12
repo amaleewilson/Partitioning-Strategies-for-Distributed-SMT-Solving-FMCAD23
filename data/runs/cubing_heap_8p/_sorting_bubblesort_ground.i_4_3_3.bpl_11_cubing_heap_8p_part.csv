@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p0.smt2,,ok,unsat,1090.6,0,1090.6,127.0
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p1.smt2,,ok,unsat,579.9,0,579.9,83.8
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p2.smt2,,ok,unsat,688.4,0,688.3,92.1
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p3.smt2,,ok,unsat,129.7,0,129.6,59.4
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p4.smt2,,ok,unsat,431.0,0,430.9,64.9
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p5.smt2,,ok,unsat,55.9,0,55.8,52.2
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p6.smt2,,ok,unsat,144.6,0,144.6,57.4
+_sorting_bubblesort_ground.i_4_3_3.bpl_11_p7.smt2,,ok,unsat,33.0,0,32.9,47.1

@@ -1,0 +1,6 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+PEQ018_size7_p0.smt2,,ok,unsat,0.9,0,0.1,6.5
+PEQ018_size7_p1.smt2,,ok,unsat,0.8,0,0.1,7.5
+PEQ018_size7_p2.smt2,,ok,unsat,0.9,0,0.1,8.1
+PEQ018_size7_p3.smt2,,ok,unsat,609.2,0,608.3,148.0
+PEQ018_size7_p4.smt2,,ok,unsat,0.9,0,0.1,7.5

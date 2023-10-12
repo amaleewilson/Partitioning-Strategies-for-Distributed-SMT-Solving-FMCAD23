@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p0.smt2,,to,unknown,1201.0,0,1201.0,98.6
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p1.smt2,,to,unknown,1201.0,0,1201.0,92.0
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p10.smt2,,to,unknown,1201.0,0,1201.0,92.8
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p11.smt2,,to,unknown,1201.0,0,1200.9,98.1
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p12.smt2,,to,unknown,1201.0,0,1201.0,120.3
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p13.smt2,,to,unknown,1201.0,0,1200.9,102.1
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p14.smt2,,to,unknown,1201.0,0,1201.0,96.6
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p15.smt2,,to,unknown,1201.0,0,1200.9,102.7
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p2.smt2,,ok,unsat,19.0,0,19.0,29.3
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p3.smt2,,ok,unsat,767.6,0,767.5,66.6
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p4.smt2,,to,unknown,1201.0,0,1200.9,119.7
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p5.smt2,,ok,unsat,9.8,0,9.6,30.2
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p6.smt2,,to,unknown,1201.0,0,1201.0,94.4
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p7.smt2,,to,unknown,1201.0,0,1200.9,97.0
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p8.smt2,,ok,unsat,32.9,0,32.9,30.7
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Loop_7-phaseTemplate_p9.smt2,,to,unknown,1201.0,0,1200.9,126.5

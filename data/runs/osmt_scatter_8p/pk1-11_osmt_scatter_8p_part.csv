@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+pk1-11_p0.smt2,,to,unknown,1201.0,0,1201.0,479.3
+pk1-11_p1.smt2,,to,unknown,1201.0,0,1201.0,471.7
+pk1-11_p2.smt2,,ok,unsat,147.5,0,147.5,15.7
+pk1-11_p3.smt2,,to,unknown,1201.0,0,1200.9,464.8
+pk1-11_p4.smt2,,ok,unsat,1.2,0,1.1,12.3
+pk1-11_p5.smt2,,to,unknown,1201.0,0,1201.0,526.1
+pk1-11_p6.smt2,,to,unknown,1201.0,0,1200.9,417.0
+pk1-11_p7.smt2,,ok,unsat,4.8,0,4.7,12.9

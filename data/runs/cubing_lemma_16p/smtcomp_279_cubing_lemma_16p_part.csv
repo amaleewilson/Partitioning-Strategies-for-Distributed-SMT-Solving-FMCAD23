@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_279_p0.smt2,,to,unknown,1201.0,0,1200.9,299.7
+smtcomp_279_p1.smt2,,ok,unsat,15.5,0,15.5,125.0
+smtcomp_279_p10.smt2,,to,unknown,1201.0,0,1201.0,283.9
+smtcomp_279_p11.smt2,,ok,unsat,15.7,0,15.7,125.1
+smtcomp_279_p12.smt2,,ok,unsat,15.8,0,15.8,124.4
+smtcomp_279_p13.smt2,,ok,unsat,15.8,0,15.8,125.1
+smtcomp_279_p14.smt2,,to,unknown,1201.0,0,1200.8,259.0
+smtcomp_279_p15.smt2,,to,unknown,1201.0,0,1200.9,302.6
+smtcomp_279_p2.smt2,,to,unknown,1201.0,0,1201.0,304.1
+smtcomp_279_p3.smt2,,ok,unsat,15.6,0,15.6,124.5
+smtcomp_279_p4.smt2,,ok,unsat,15.7,0,15.7,124.5
+smtcomp_279_p5.smt2,,ok,unsat,15.7,0,15.6,125.2
+smtcomp_279_p6.smt2,,to,unknown,1201.0,0,1201.0,299.3
+smtcomp_279_p7.smt2,,to,unknown,1201.0,0,1201.0,289.2
+smtcomp_279_p8.smt2,,ok,unsat,15.9,0,15.9,126.8
+smtcomp_279_p9.smt2,,ok,unsat,15.4,0,15.4,124.4

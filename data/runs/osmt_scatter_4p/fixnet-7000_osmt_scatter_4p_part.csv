@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+fixnet-7000_p0.smt2,,ok,sat,286.8,0,286.7,82.2
+fixnet-7000_p1.smt2,,to,unknown,1201.0,0,1200.9,198.0
+fixnet-7000_p2.smt2,,to,unknown,1201.0,0,1201.0,275.5
+fixnet-7000_p3.smt2,,to,unknown,1201.0,0,1200.9,278.4

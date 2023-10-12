@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_270_p0.smt2,,to,unknown,1201.0,0,1200.9,358.1
+smtcomp_270_p1.smt2,,to,unknown,1201.0,0,1201.0,332.0
+smtcomp_270_p10.smt2,,to,unknown,1201.0,0,1201.0,447.7
+smtcomp_270_p11.smt2,,to,unknown,1201.0,0,1201.0,337.1
+smtcomp_270_p12.smt2,,to,unknown,1201.0,0,1200.9,340.6
+smtcomp_270_p13.smt2,,to,unknown,1201.0,0,1201.0,336.7
+smtcomp_270_p14.smt2,,to,unknown,1201.0,0,1201.0,441.7
+smtcomp_270_p15.smt2,,to,unknown,1201.0,0,1200.8,343.2
+smtcomp_270_p2.smt2,,to,unknown,1201.0,0,1200.9,350.2
+smtcomp_270_p3.smt2,,to,unknown,1201.0,0,1201.0,470.4
+smtcomp_270_p4.smt2,,to,unknown,1201.0,0,1201.0,346.0
+smtcomp_270_p5.smt2,,to,unknown,1201.0,0,1200.9,323.2
+smtcomp_270_p6.smt2,,to,unknown,1201.0,0,1200.9,347.4
+smtcomp_270_p7.smt2,,to,unknown,1201.0,0,1201.0,343.4
+smtcomp_270_p8.smt2,,to,unknown,1201.0,0,1201.0,478.9
+smtcomp_270_p9.smt2,,to,unknown,1201.0,0,1201.0,343.4

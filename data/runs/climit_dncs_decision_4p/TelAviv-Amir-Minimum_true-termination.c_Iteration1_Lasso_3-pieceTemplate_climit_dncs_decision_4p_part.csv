@@ -1,0 +1,3 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,ok,unsat,63.0,0,62.7,913.5
+TelAviv-Amir-Minimum_true-termination.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.8,1001.9

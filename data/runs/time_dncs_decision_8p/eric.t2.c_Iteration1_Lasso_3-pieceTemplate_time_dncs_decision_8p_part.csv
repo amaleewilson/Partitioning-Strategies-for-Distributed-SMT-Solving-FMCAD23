@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.8,147.7
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p1.smt2,,ok,sat,885.4,0,885.1,147.9
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p2.smt2,,ok,sat,844.3,0,844.1,146.9
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p3.smt2,,ok,sat,820.3,0,819.9,148.0
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p4.smt2,,ok,sat,786.6,0,786.4,147.1
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p5.smt2,,ok,sat,863.3,0,862.9,146.0
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p6.smt2,,ok,sat,690.2,0,689.9,136.6
+eric.t2.c_Iteration1_Lasso_3-pieceTemplate_p7.smt2,,ok,sat,867.0,0,866.6,147.1

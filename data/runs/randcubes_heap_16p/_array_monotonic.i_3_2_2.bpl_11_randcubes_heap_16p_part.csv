@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_array_monotonic.i_3_2_2.bpl_11_p0.smt2,,ok,unsat,475.6,0,475.5,54.5
+_array_monotonic.i_3_2_2.bpl_11_p1.smt2,,ok,unsat,68.9,0,68.9,26.5
+_array_monotonic.i_3_2_2.bpl_11_p10.smt2,,ok,unsat,0.6,0,0.6,8.9
+_array_monotonic.i_3_2_2.bpl_11_p11.smt2,,ok,unsat,0.5,0,0.5,8.6
+_array_monotonic.i_3_2_2.bpl_11_p12.smt2,,ok,unsat,2.5,0,2.4,12.0
+_array_monotonic.i_3_2_2.bpl_11_p13.smt2,,ok,unsat,1.6,0,1.6,11.5
+_array_monotonic.i_3_2_2.bpl_11_p14.smt2,,ok,unsat,0.6,0,0.6,9.1
+_array_monotonic.i_3_2_2.bpl_11_p15.smt2,,ok,unsat,0.6,0,0.6,8.6
+_array_monotonic.i_3_2_2.bpl_11_p2.smt2,,ok,unsat,192.2,0,192.2,43.5
+_array_monotonic.i_3_2_2.bpl_11_p3.smt2,,ok,unsat,22.5,0,22.5,17.5
+_array_monotonic.i_3_2_2.bpl_11_p4.smt2,,ok,unsat,6.9,0,6.9,13.9
+_array_monotonic.i_3_2_2.bpl_11_p5.smt2,,ok,unsat,3.3,0,3.3,13.0
+_array_monotonic.i_3_2_2.bpl_11_p6.smt2,,ok,unsat,4.5,0,4.5,12.3
+_array_monotonic.i_3_2_2.bpl_11_p7.smt2,,ok,unsat,2.5,0,2.5,11.5
+_array_monotonic.i_3_2_2.bpl_11_p8.smt2,,ok,unsat,73.6,0,73.6,26.2
+_array_monotonic.i_3_2_2.bpl_11_p9.smt2,,ok,unsat,23.5,0,23.5,18.9

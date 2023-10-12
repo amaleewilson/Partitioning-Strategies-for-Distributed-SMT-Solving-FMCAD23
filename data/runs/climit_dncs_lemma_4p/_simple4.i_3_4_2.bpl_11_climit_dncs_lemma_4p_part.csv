@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_simple4.i_3_4_2.bpl_11_p0.smt2,,ok,unsat,937.9,0,937.8,85.5
+_simple4.i_3_4_2.bpl_11_p1.smt2,,ok,unsat,525.2,0,525.1,48.5
+_simple4.i_3_4_2.bpl_11_p2.smt2,,ok,unsat,542.7,0,542.6,57.7
+_simple4.i_3_4_2.bpl_11_p3.smt2,,ok,unsat,495.9,0,495.9,48.7

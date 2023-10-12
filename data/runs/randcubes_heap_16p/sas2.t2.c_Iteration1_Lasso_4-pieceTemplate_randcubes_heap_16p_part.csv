@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p0.smt2,,ok,sat,867.9,0,867.9,284.5
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,282.7
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p10.smt2,,ok,sat,628.1,0,628.0,261.8
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p11.smt2,,ok,unsat,41.5,0,41.4,198.9
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p12.smt2,,to,unknown,1201.0,0,1200.9,286.7
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p13.smt2,,ok,sat,922.9,0,922.8,279.5
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p14.smt2,,ok,sat,745.4,0,745.4,268.8
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p15.smt2,,ok,unsat,45.9,0,45.8,199.5
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p2.smt2,,ok,sat,706.0,0,705.8,269.4
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p3.smt2,,ok,unsat,44.6,0,44.5,203.3
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p4.smt2,,ok,sat,734.5,0,734.4,264.5
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p5.smt2,,ok,sat,1071.5,0,1071.4,306.5
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p6.smt2,,ok,sat,859.3,0,859.2,278.0
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p7.smt2,,ok,unsat,50.5,0,50.4,200.8
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p8.smt2,,ok,sat,718.4,0,718.3,279.9
+sas2.t2.c_Iteration1_Lasso_4-pieceTemplate_p9.smt2,,ok,sat,1090.1,0,1089.9,292.0

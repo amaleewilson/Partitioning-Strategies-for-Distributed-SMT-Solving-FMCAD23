@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+danoint-166_p0.smt2,,ok,sat,829.5,0,829.5,50.6
+danoint-166_p1.smt2,,to,unknown,1201.0,0,1200.9,58.0
+danoint-166_p10.smt2,,ok,sat,640.1,0,640.1,93.3
+danoint-166_p11.smt2,,ok,sat,594.1,0,594.1,59.4
+danoint-166_p12.smt2,,to,unknown,1201.0,0,1201.0,58.8
+danoint-166_p13.smt2,,to,unknown,1201.0,0,1201.0,50.4
+danoint-166_p14.smt2,,to,unknown,1201.0,0,1201.0,59.1
+danoint-166_p15.smt2,,to,unknown,1201.0,0,1201.0,50.9
+danoint-166_p2.smt2,,to,unknown,1201.0,0,1201.0,59.0
+danoint-166_p3.smt2,,to,unknown,1201.0,0,1201.0,51.2
+danoint-166_p4.smt2,,ok,sat,846.5,0,846.5,58.5
+danoint-166_p5.smt2,,to,unknown,1201.0,0,1201.0,61.1
+danoint-166_p6.smt2,,to,unknown,1201.0,0,1200.8,58.5
+danoint-166_p7.smt2,,to,unknown,1201.0,0,1201.0,59.1
+danoint-166_p8.smt2,,to,unknown,1201.0,0,1201.0,58.8
+danoint-166_p9.smt2,,to,unknown,1201.0,0,1201.0,59.7

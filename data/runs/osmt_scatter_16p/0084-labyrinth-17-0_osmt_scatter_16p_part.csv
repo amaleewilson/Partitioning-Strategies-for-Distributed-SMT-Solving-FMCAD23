@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+0084-labyrinth-17-0_p0.smt2,,ok,sat,624.7,0,623.7,1788.5
+0084-labyrinth-17-0_p1.smt2,,to,unknown,1201.0,0,1200.1,2133.8
+0084-labyrinth-17-0_p10.smt2,,to,unknown,1201.0,0,1200.3,2071.3
+0084-labyrinth-17-0_p11.smt2,,ok,sat,873.4,0,872.6,1897.5
+0084-labyrinth-17-0_p12.smt2,,to,unknown,1201.0,0,1200.2,2037.0
+0084-labyrinth-17-0_p13.smt2,,ok,sat,921.3,0,920.8,2023.3
+0084-labyrinth-17-0_p14.smt2,,to,unknown,1201.0,0,1200.7,2043.7
+0084-labyrinth-17-0_p15.smt2,,ok,sat,1169.3,0,1168.6,2143.6
+0084-labyrinth-17-0_p2.smt2,,to,unknown,1201.0,0,1200.4,2038.3
+0084-labyrinth-17-0_p3.smt2,,ok,sat,681.4,0,680.9,1816.4
+0084-labyrinth-17-0_p4.smt2,,to,unknown,1201.0,0,1200.4,2111.5
+0084-labyrinth-17-0_p5.smt2,,to,unknown,1201.0,0,1200.5,2091.6
+0084-labyrinth-17-0_p6.smt2,,ok,sat,726.5,0,726.0,1816.4
+0084-labyrinth-17-0_p7.smt2,,ok,sat,620.6,0,619.6,1832.3
+0084-labyrinth-17-0_p8.smt2,,ok,sat,1145.9,0,1144.9,2254.1
+0084-labyrinth-17-0_p9.smt2,,ok,sat,511.0,0,510.2,1775.7

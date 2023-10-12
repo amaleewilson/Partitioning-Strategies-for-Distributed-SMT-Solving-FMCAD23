@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+SEQ026_size7_p0.smt2,,ok,unsat,0.2,0,0.2,12.7
+SEQ026_size7_p1.smt2,,ok,unsat,0.3,0,0.3,12.8
+SEQ026_size7_p10.smt2,,ok,unsat,70.0,0,70.0,43.2
+SEQ026_size7_p11.smt2,,ok,unsat,298.4,0,298.3,46.5
+SEQ026_size7_p12.smt2,,ok,unsat,157.8,0,157.8,41.2
+SEQ026_size7_p13.smt2,,ok,unsat,398.2,0,398.2,45.3
+SEQ026_size7_p14.smt2,,ok,unsat,528.9,0,528.9,49.2
+SEQ026_size7_p15.smt2,,to,unknown,1201.0,0,1201.0,51.5
+SEQ026_size7_p2.smt2,,ok,unsat,3.5,0,3.5,34.2
+SEQ026_size7_p3.smt2,,ok,unsat,97.8,0,97.8,40.1
+SEQ026_size7_p4.smt2,,ok,unsat,0.3,0,0.2,13.4
+SEQ026_size7_p5.smt2,,ok,unsat,0.3,0,0.3,13.1
+SEQ026_size7_p6.smt2,,ok,unsat,104.8,0,104.8,41.0
+SEQ026_size7_p7.smt2,,ok,unsat,368.4,0,368.4,43.1
+SEQ026_size7_p8.smt2,,ok,unsat,3.3,0,3.3,34.1
+SEQ026_size7_p9.smt2,,ok,unsat,110.6,0,110.6,38.5

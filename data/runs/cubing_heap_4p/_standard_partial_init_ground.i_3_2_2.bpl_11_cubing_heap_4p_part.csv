@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_partial_init_ground.i_3_2_2.bpl_11_p0.smt2,,ok,unsat,490.3,0,490.2,61.3
+_standard_partial_init_ground.i_3_2_2.bpl_11_p1.smt2,,ok,unsat,74.8,0,74.8,27.2
+_standard_partial_init_ground.i_3_2_2.bpl_11_p2.smt2,,ok,unsat,86.6,0,86.5,32.3
+_standard_partial_init_ground.i_3_2_2.bpl_11_p3.smt2,,ok,unsat,38.8,0,38.7,22.8

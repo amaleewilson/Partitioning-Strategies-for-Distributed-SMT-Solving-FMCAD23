@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+NEQ048_size9_p0.smt2,,ok,unsat,27.6,0,27.5,23.8
+NEQ048_size9_p1.smt2,,ok,unsat,20.8,0,20.8,22.6
+NEQ048_size9_p2.smt2,,ok,unsat,0.2,0,0.2,8.1
+NEQ048_size9_p3.smt2,,ok,unsat,57.9,0,57.9,29.1
+NEQ048_size9_p4.smt2,,ok,unsat,50.4,0,50.4,24.5
+NEQ048_size9_p5.smt2,,ok,unsat,37.2,0,37.1,26.6
+NEQ048_size9_p6.smt2,,ok,unsat,15.7,0,15.7,20.5
+NEQ048_size9_p7.smt2,,ok,unsat,689.7,0,689.6,173.6

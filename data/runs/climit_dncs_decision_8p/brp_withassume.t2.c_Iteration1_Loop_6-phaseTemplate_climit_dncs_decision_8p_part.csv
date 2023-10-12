@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p0.smt2,,ok,sat,996.1,0,995.9,978.6
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p1.smt2,,ok,sat,1173.4,0,1173.3,728.4
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p2.smt2,,ok,unsat,53.4,0,53.3,447.3
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p3.smt2,,ok,sat,931.7,0,931.2,770.5
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p4.smt2,,ok,sat,662.9,0,662.7,703.9
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p5.smt2,,ok,sat,849.4,0,849.2,732.4
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p6.smt2,,ok,sat,807.6,0,807.4,713.5
+brp_withassume.t2.c_Iteration1_Loop_6-phaseTemplate_p7.smt2,,ok,sat,713.6,0,713.4,719.8

@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_nested9.i_5_6_6.bpl_7_p0.smt2,,ok,sat,634.4,0,634.3,93.0
+_nested9.i_5_6_6.bpl_7_p1.smt2,,to,unknown,1201.0,0,1200.9,108.5
+_nested9.i_5_6_6.bpl_7_p2.smt2,,to,unknown,1201.0,0,1200.9,116.4
+_nested9.i_5_6_6.bpl_7_p3.smt2,,to,unknown,1201.0,0,1200.9,121.7

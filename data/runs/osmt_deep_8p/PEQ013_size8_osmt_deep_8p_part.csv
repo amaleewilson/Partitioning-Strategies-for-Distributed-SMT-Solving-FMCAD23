@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+PEQ013_size8_p0.smt2,,to,unknown,1201.0,0,1201.0,93.0
+PEQ013_size8_p1.smt2,,to,unknown,1201.0,0,1201.0,91.4
+PEQ013_size8_p2.smt2,,ok,unsat,996.5,0,996.4,75.8
+PEQ013_size8_p3.smt2,,ok,unsat,174.6,0,174.6,34.7
+PEQ013_size8_p4.smt2,,ok,unsat,417.1,0,417.0,44.0
+PEQ013_size8_p5.smt2,,to,unknown,1201.0,0,1201.0,90.2
+PEQ013_size8_p6.smt2,,ok,unsat,463.9,0,463.9,44.4
+PEQ013_size8_p7.smt2,,to,unknown,1201.0,0,1201.0,80.7

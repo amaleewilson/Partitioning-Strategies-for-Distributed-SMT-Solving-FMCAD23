@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p0.smt2,,ok,unsat,53.2,0,53.1,352.9
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p1.smt2,,ok,unsat,54.1,0,54.0,352.7
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1201.0,1135.3
+aviad_true-termination.c_Iteration1_Loop_2-pieceTemplate_p3.smt2,,ok,unsat,53.6,0,53.5,352.2

@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+aviad_true-termination.c_Iteration1_Loop_4-lexTemplate_p0.smt2,,to,unknown,1201.0,0,1200.8,1272.7
+aviad_true-termination.c_Iteration1_Loop_4-lexTemplate_p1.smt2,,ok,unsat,93.6,0,93.1,1177.5
+aviad_true-termination.c_Iteration1_Loop_4-lexTemplate_p2.smt2,,ok,unsat,94.1,0,93.6,1177.6
+aviad_true-termination.c_Iteration1_Loop_4-lexTemplate_p3.smt2,,ok,unsat,94.2,0,93.7,1178.2

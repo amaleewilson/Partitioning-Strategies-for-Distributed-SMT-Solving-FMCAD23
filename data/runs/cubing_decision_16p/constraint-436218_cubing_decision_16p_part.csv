@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-436218_p0.smt2,,to,unknown,1201.0,0,1201.0,125.4
+constraint-436218_p1.smt2,,to,unknown,1201.0,0,1200.9,126.5
+constraint-436218_p10.smt2,,to,unknown,1201.0,0,1201.0,123.5
+constraint-436218_p11.smt2,,to,unknown,1201.0,0,1200.9,123.4
+constraint-436218_p12.smt2,,to,unknown,1201.0,0,1201.0,126.2
+constraint-436218_p13.smt2,,to,unknown,1201.0,0,1201.0,122.5
+constraint-436218_p14.smt2,,to,unknown,1201.0,0,1201.0,125.3
+constraint-436218_p15.smt2,,ok,sat,1024.6,0,1024.5,122.4
+constraint-436218_p2.smt2,,to,unknown,1201.0,0,1201.0,124.4
+constraint-436218_p3.smt2,,to,unknown,1201.0,0,1201.0,125.3
+constraint-436218_p4.smt2,,to,unknown,1201.0,0,1201.0,123.3
+constraint-436218_p5.smt2,,to,unknown,1201.0,0,1200.9,122.6
+constraint-436218_p6.smt2,,to,unknown,1201.0,0,1201.0,125.2
+constraint-436218_p7.smt2,,ok,sat,1022.3,0,1022.2,122.2
+constraint-436218_p8.smt2,,to,unknown,1201.0,0,1201.0,124.5
+constraint-436218_p9.smt2,,to,unknown,1201.0,0,1201.0,123.5

@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_partial_init_ground.i_3_2_2.bpl_11_p0.smt2,,ok,unsat,78.0,0,78.0,32.9
+_standard_partial_init_ground.i_3_2_2.bpl_11_p1.smt2,,ok,unsat,37.5,0,37.5,24.8
+_standard_partial_init_ground.i_3_2_2.bpl_11_p10.smt2,,ok,unsat,27.8,0,27.7,20.5
+_standard_partial_init_ground.i_3_2_2.bpl_11_p11.smt2,,ok,unsat,16.5,0,16.4,18.2
+_standard_partial_init_ground.i_3_2_2.bpl_11_p12.smt2,,ok,unsat,19.8,0,19.7,19.8
+_standard_partial_init_ground.i_3_2_2.bpl_11_p13.smt2,,ok,unsat,11.5,0,11.5,17.4
+_standard_partial_init_ground.i_3_2_2.bpl_11_p14.smt2,,ok,unsat,21.7,0,21.7,19.3
+_standard_partial_init_ground.i_3_2_2.bpl_11_p15.smt2,,ok,unsat,19.2,0,19.2,17.7
+_standard_partial_init_ground.i_3_2_2.bpl_11_p2.smt2,,ok,unsat,85.4,0,85.4,30.8
+_standard_partial_init_ground.i_3_2_2.bpl_11_p3.smt2,,ok,unsat,20.8,0,20.8,19.1
+_standard_partial_init_ground.i_3_2_2.bpl_11_p4.smt2,,ok,unsat,425.4,0,424.2,63.8
+_standard_partial_init_ground.i_3_2_2.bpl_11_p5.smt2,,ok,unsat,66.1,0,66.0,28.5
+_standard_partial_init_ground.i_3_2_2.bpl_11_p6.smt2,,ok,unsat,170.3,0,170.3,48.1
+_standard_partial_init_ground.i_3_2_2.bpl_11_p7.smt2,,ok,unsat,92.3,0,92.3,33.9
+_standard_partial_init_ground.i_3_2_2.bpl_11_p8.smt2,,ok,unsat,30.7,0,30.7,20.4
+_standard_partial_init_ground.i_3_2_2.bpl_11_p9.smt2,,ok,unsat,14.5,0,14.5,18.2

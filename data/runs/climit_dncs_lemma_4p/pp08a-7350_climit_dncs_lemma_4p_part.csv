@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+pp08a-7350_p0.smt2,,to,unknown,1201.0,0,1200.9,90.4
+pp08a-7350_p1.smt2,,to,unknown,1201.0,0,1200.9,102.8
+pp08a-7350_p2.smt2,,ok,unsat,0.4,0,0.4,11.0
+pp08a-7350_p3.smt2,,to,unknown,1201.0,0,1200.9,92.0

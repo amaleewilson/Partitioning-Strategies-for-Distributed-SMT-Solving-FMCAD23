@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p0.smt2,,ok,sat,1039.4,0,1039.1,1027.0
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p1.smt2,,ok,sat,903.6,0,903.3,1007.0
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p2.smt2,,to,unknown,1201.0,0,1200.9,1002.4
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p3.smt2,,ok,sat,1053.8,0,1053.7,1025.3
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p4.smt2,,to,unknown,1201.0,0,1200.7,763.3
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p5.smt2,,ok,sat,842.7,0,842.2,788.4
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p6.smt2,,to,unknown,1201.0,0,1201.0,996.8
+hongyi1.t2.c_Iteration9_Loop_6-phaseTemplate_p7.smt2,,to,unknown,1201.0,0,1200.8,1036.6

@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_init6_ground.i_3_2_2.bpl_7_p0.smt2,,ok,unsat,767.6,0,767.5,136.0
+_standard_init6_ground.i_3_2_2.bpl_7_p1.smt2,,ok,unsat,619.7,0,619.7,111.2
+_standard_init6_ground.i_3_2_2.bpl_7_p2.smt2,,ok,unsat,812.8,0,812.7,132.1
+_standard_init6_ground.i_3_2_2.bpl_7_p3.smt2,,ok,unsat,743.0,0,743.0,132.1
+_standard_init6_ground.i_3_2_2.bpl_7_p4.smt2,,ok,unsat,755.3,0,755.3,128.8
+_standard_init6_ground.i_3_2_2.bpl_7_p5.smt2,,ok,unsat,786.6,0,786.5,130.1
+_standard_init6_ground.i_3_2_2.bpl_7_p6.smt2,,ok,unsat,592.7,0,592.6,108.9
+_standard_init6_ground.i_3_2_2.bpl_7_p7.smt2,,ok,unsat,805.1,0,804.9,138.3

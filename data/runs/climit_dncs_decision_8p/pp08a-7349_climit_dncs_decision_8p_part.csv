@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+pp08a-7349_p0.smt2,,to,unknown,1201.0,0,1200.9,112.0
+pp08a-7349_p1.smt2,,to,unknown,1201.0,0,1201.0,103.9
+pp08a-7349_p2.smt2,,to,unknown,1201.0,0,1201.0,93.2
+pp08a-7349_p3.smt2,,to,unknown,1201.0,0,1200.9,97.0
+pp08a-7349_p4.smt2,,to,unknown,1201.0,0,1201.0,103.5
+pp08a-7349_p5.smt2,,to,unknown,1201.0,0,1201.0,106.5
+pp08a-7349_p6.smt2,,to,unknown,1201.0,0,1201.0,99.6
+pp08a-7349_p7.smt2,,to,unknown,1201.0,0,1201.0,105.5

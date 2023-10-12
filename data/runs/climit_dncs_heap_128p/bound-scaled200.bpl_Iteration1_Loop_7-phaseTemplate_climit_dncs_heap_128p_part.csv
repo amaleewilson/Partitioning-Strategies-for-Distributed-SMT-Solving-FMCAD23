@@ -1,0 +1,4 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p0.smt2,,ok,unsat,34.1,0,33.8,101.5
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p1.smt2,,ok,sat,864.3,0,864.0,787.5
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p2.smt2,,ok,sat,1039.4,0,1039.1,777.6

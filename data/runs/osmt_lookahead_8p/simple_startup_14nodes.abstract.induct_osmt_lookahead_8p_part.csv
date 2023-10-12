@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+simple_startup_14nodes.abstract.induct_p0.smt2,,ok,unsat,53.8,0,53.8,90.0
+simple_startup_14nodes.abstract.induct_p1.smt2,,ok,unsat,458.3,0,458.0,175.1
+simple_startup_14nodes.abstract.induct_p2.smt2,,ok,unsat,43.3,0,43.0,97.7
+simple_startup_14nodes.abstract.induct_p3.smt2,,ok,unsat,7.5,0,7.3,57.9
+simple_startup_14nodes.abstract.induct_p4.smt2,,ok,unsat,34.8,0,34.8,90.0
+simple_startup_14nodes.abstract.induct_p5.smt2,,ok,unsat,5.5,0,5.2,50.2
+simple_startup_14nodes.abstract.induct_p6.smt2,,ok,unsat,41.5,0,41.3,93.2
+simple_startup_14nodes.abstract.induct_p7.smt2,,ok,unsat,11.6,0,11.4,53.9

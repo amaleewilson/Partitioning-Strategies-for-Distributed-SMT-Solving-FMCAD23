@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_strcpy_original.i_3_3_2.bpl_11_p0.smt2,,ok,unsat,50.6,0,50.6,22.2
+_standard_strcpy_original.i_3_3_2.bpl_11_p1.smt2,,ok,unsat,191.4,0,191.3,34.6
+_standard_strcpy_original.i_3_3_2.bpl_11_p10.smt2,,ok,unsat,3.7,0,3.7,14.2
+_standard_strcpy_original.i_3_3_2.bpl_11_p11.smt2,,ok,unsat,106.7,0,106.7,23.9
+_standard_strcpy_original.i_3_3_2.bpl_11_p12.smt2,,ok,unsat,4.5,0,4.5,14.3
+_standard_strcpy_original.i_3_3_2.bpl_11_p13.smt2,,ok,unsat,1.8,0,1.8,13.8
+_standard_strcpy_original.i_3_3_2.bpl_11_p14.smt2,,ok,unsat,0.8,0,0.7,12.3
+_standard_strcpy_original.i_3_3_2.bpl_11_p15.smt2,,ok,unsat,0.7,0,0.7,12.2
+_standard_strcpy_original.i_3_3_2.bpl_11_p2.smt2,,ok,unsat,41.9,0,41.9,21.2
+_standard_strcpy_original.i_3_3_2.bpl_11_p3.smt2,,ok,unsat,641.8,0,641.7,46.0
+_standard_strcpy_original.i_3_3_2.bpl_11_p4.smt2,,ok,unsat,3.8,0,3.8,13.9
+_standard_strcpy_original.i_3_3_2.bpl_11_p5.smt2,,ok,unsat,2.5,0,2.5,13.5
+_standard_strcpy_original.i_3_3_2.bpl_11_p6.smt2,,ok,unsat,5.7,0,5.6,14.7
+_standard_strcpy_original.i_3_3_2.bpl_11_p7.smt2,,ok,unsat,39.3,0,39.3,20.6
+_standard_strcpy_original.i_3_3_2.bpl_11_p8.smt2,,ok,unsat,36.9,0,36.9,20.2
+_standard_strcpy_original.i_3_3_2.bpl_11_p9.smt2,,ok,unsat,105.3,0,105.2,25.7

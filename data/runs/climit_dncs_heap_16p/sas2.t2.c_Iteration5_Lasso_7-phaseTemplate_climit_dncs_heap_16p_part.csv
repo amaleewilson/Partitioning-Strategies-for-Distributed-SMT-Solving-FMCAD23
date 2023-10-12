@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p0.smt2,,ok,unsat,22.5,0,22.4,70.3
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p1.smt2,,ok,sat,1101.5,0,1101.4,509.3
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p10.smt2,,ok,unsat,46.5,0,46.4,234.6
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p11.smt2,,ok,unsat,47.1,0,47.1,233.8
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p12.smt2,,ok,unsat,46.3,0,46.2,234.4
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p13.smt2,,ok,unsat,46.4,0,46.4,234.1
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p14.smt2,,ok,unsat,46.4,0,46.3,235.1
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p15.smt2,,ok,sat,775.8,0,775.7,535.8
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p2.smt2,,ok,unsat,22.0,0,21.9,70.2
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p3.smt2,,ok,unsat,46.3,0,46.3,234.2
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p4.smt2,,ok,unsat,46.3,0,46.3,234.3
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p5.smt2,,ok,unsat,47.1,0,47.1,234.5
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p6.smt2,,ok,unsat,46.5,0,46.4,234.3
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p7.smt2,,ok,unsat,46.6,0,46.5,233.8
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p8.smt2,,ok,unsat,46.6,0,46.4,234.3
+sas2.t2.c_Iteration5_Lasso_7-phaseTemplate_p9.smt2,,ok,unsat,22.1,0,22.0,70.4

@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_simple4.i_3_4_2.bpl_11_p0.smt2,,ok,unsat,26.7,0,26.7,19.0
+_simple4.i_3_4_2.bpl_11_p1.smt2,,ok,unsat,13.8,0,13.6,15.0
+_simple4.i_3_4_2.bpl_11_p10.smt2,,ok,unsat,612.2,0,611.9,64.8
+_simple4.i_3_4_2.bpl_11_p11.smt2,,ok,unsat,68.7,0,68.7,24.8
+_simple4.i_3_4_2.bpl_11_p12.smt2,,ok,unsat,173.5,0,173.3,40.0
+_simple4.i_3_4_2.bpl_11_p13.smt2,,ok,unsat,38.1,0,37.8,21.3
+_simple4.i_3_4_2.bpl_11_p14.smt2,,ok,unsat,436.6,0,436.4,46.6
+_simple4.i_3_4_2.bpl_11_p15.smt2,,ok,unsat,485.7,0,485.7,45.2
+_simple4.i_3_4_2.bpl_11_p2.smt2,,ok,unsat,13.5,0,13.2,16.8
+_simple4.i_3_4_2.bpl_11_p3.smt2,,ok,unsat,140.7,0,140.5,34.8
+_simple4.i_3_4_2.bpl_11_p4.smt2,,ok,unsat,114.7,0,114.7,28.6
+_simple4.i_3_4_2.bpl_11_p5.smt2,,ok,unsat,16.9,0,16.7,19.3
+_simple4.i_3_4_2.bpl_11_p6.smt2,,ok,unsat,198.0,0,197.8,43.5
+_simple4.i_3_4_2.bpl_11_p7.smt2,,ok,unsat,85.6,0,85.3,27.8
+_simple4.i_3_4_2.bpl_11_p8.smt2,,ok,unsat,46.2,0,46.1,21.9
+_simple4.i_3_4_2.bpl_11_p9.smt2,,ok,unsat,16.6,0,16.6,15.5

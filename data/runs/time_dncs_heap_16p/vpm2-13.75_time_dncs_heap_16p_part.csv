@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+vpm2-13.75_p0.smt2,,to,unknown,1201.0,0,1201.0,228.9
+vpm2-13.75_p1.smt2,,to,unknown,1201.0,0,1201.0,239.3
+vpm2-13.75_p10.smt2,,to,unknown,1201.0,0,1201.0,258.6
+vpm2-13.75_p11.smt2,,to,unknown,1201.0,0,1201.0,283.4
+vpm2-13.75_p12.smt2,,to,unknown,1201.0,0,1201.0,264.2
+vpm2-13.75_p13.smt2,,to,unknown,1201.0,0,1201.0,193.5
+vpm2-13.75_p14.smt2,,to,unknown,1201.0,0,1201.0,227.9
+vpm2-13.75_p15.smt2,,to,unknown,1201.0,0,1201.0,243.5
+vpm2-13.75_p2.smt2,,ok,unsat,641.8,0,641.8,153.3
+vpm2-13.75_p3.smt2,,ok,unsat,0.9,0,0.9,15.6
+vpm2-13.75_p4.smt2,,to,unknown,1201.0,0,1201.0,272.0
+vpm2-13.75_p5.smt2,,to,unknown,1201.0,0,1201.0,253.0
+vpm2-13.75_p6.smt2,,to,unknown,1201.0,0,1201.0,247.3
+vpm2-13.75_p7.smt2,,to,unknown,1201.0,0,1200.9,230.4
+vpm2-13.75_p8.smt2,,ok,unsat,646.7,0,646.7,205.1
+vpm2-13.75_p9.smt2,,ok,unsat,0.8,0,0.8,15.0

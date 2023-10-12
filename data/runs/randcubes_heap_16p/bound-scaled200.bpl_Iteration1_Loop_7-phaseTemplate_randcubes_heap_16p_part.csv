@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p0.smt2,,ok,sat,908.4,0,908.3,834.8
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p1.smt2,,to,unknown,1201.0,0,1201.0,771.5
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p10.smt2,,ok,sat,1006.5,0,1006.4,786.1
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p11.smt2,,ok,sat,1149.5,0,1149.4,740.4
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p12.smt2,,to,unknown,1201.0,0,1201.0,764.7
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p13.smt2,,ok,sat,1096.5,0,1096.4,803.3
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p14.smt2,,ok,sat,983.8,0,983.7,809.8
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p15.smt2,,ok,sat,1032.0,0,1031.9,866.2
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p2.smt2,,to,unknown,1201.0,0,1201.0,771.5
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p3.smt2,,ok,sat,648.0,0,647.9,690.5
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p4.smt2,,ok,sat,1102.7,0,1102.6,768.1
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p5.smt2,,ok,sat,903.2,0,903.1,711.6
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p6.smt2,,ok,sat,1138.0,0,1137.7,813.6
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p7.smt2,,to,unknown,1201.0,0,1200.9,773.3
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p8.smt2,,ok,sat,1057.4,0,1057.3,789.5
+bound-scaled200.bpl_Iteration1_Loop_7-phaseTemplate_p9.smt2,,to,unknown,1201.0,0,1201.0,775.6

@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_gj2007.c.i_4_3_3.bpl_11_p0.smt2,,to,unknown,1201.0,0,1200.8,142.6
+_gj2007.c.i_4_3_3.bpl_11_p1.smt2,,ok,unsat,83.4,0,83.2,37.6
+_gj2007.c.i_4_3_3.bpl_11_p10.smt2,,ok,unsat,36.1,0,35.9,30.6
+_gj2007.c.i_4_3_3.bpl_11_p11.smt2,,ok,unsat,77.2,0,76.9,38.5
+_gj2007.c.i_4_3_3.bpl_11_p12.smt2,,ok,unsat,5.0,0,4.8,22.2
+_gj2007.c.i_4_3_3.bpl_11_p13.smt2,,ok,unsat,6.8,0,6.5,23.5
+_gj2007.c.i_4_3_3.bpl_11_p14.smt2,,ok,unsat,6.1,0,5.8,22.4
+_gj2007.c.i_4_3_3.bpl_11_p15.smt2,,ok,unsat,429.8,0,429.5,65.5
+_gj2007.c.i_4_3_3.bpl_11_p2.smt2,,ok,unsat,18.7,0,18.7,29.2
+_gj2007.c.i_4_3_3.bpl_11_p3.smt2,,ok,unsat,23.6,0,23.4,29.5
+_gj2007.c.i_4_3_3.bpl_11_p4.smt2,,ok,unsat,54.9,0,54.7,34.9
+_gj2007.c.i_4_3_3.bpl_11_p5.smt2,,to,unknown,1201.0,0,1200.8,114.1
+_gj2007.c.i_4_3_3.bpl_11_p6.smt2,,ok,unsat,93.8,0,93.6,39.2
+_gj2007.c.i_4_3_3.bpl_11_p7.smt2,,ok,unsat,9.3,0,9.0,23.4
+_gj2007.c.i_4_3_3.bpl_11_p8.smt2,,ok,unsat,67.6,0,67.4,33.1
+_gj2007.c.i_4_3_3.bpl_11_p9.smt2,,to,unknown,1201.0,0,1200.9,112.8

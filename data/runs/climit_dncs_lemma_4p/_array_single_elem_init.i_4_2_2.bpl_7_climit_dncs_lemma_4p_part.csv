@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_array_single_elem_init.i_4_2_2.bpl_7_p0.smt2,,to,unknown,1201.0,0,1200.9,128.1
+_array_single_elem_init.i_4_2_2.bpl_7_p1.smt2,,to,unknown,1201.0,0,1201.0,134.7
+_array_single_elem_init.i_4_2_2.bpl_7_p2.smt2,,ok,unsat,659.5,0,659.3,76.7
+_array_single_elem_init.i_4_2_2.bpl_7_p3.smt2,,to,unknown,1201.0,0,1201.0,105.7

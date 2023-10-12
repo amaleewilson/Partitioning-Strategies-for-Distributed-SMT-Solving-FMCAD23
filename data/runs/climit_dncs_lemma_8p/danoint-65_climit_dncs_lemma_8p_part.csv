@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+danoint-65_p0.smt2,,to,unknown,1201.0,0,1200.9,59.4
+danoint-65_p1.smt2,,to,unknown,1201.0,0,1200.9,53.3
+danoint-65_p2.smt2,,to,unknown,1201.0,0,1201.0,59.0
+danoint-65_p3.smt2,,to,unknown,1201.0,0,1201.0,49.8
+danoint-65_p4.smt2,,to,unknown,1201.0,0,1201.0,50.2
+danoint-65_p5.smt2,,ok,unsat,1.4,0,1.4,18.7
+danoint-65_p6.smt2,,ok,unsat,1.5,0,1.5,18.4
+danoint-65_p7.smt2,,to,unknown,1201.0,0,1201.0,58.8

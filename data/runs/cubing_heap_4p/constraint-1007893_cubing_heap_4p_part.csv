@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-1007893_p0.smt2,,to,unknown,1201.0,0,1200.9,268.7
+constraint-1007893_p1.smt2,,ok,unsat,2.7,0,2.6,45.6
+constraint-1007893_p2.smt2,,ok,unsat,2.2,0,2.2,45.2
+constraint-1007893_p3.smt2,,ok,unsat,2.2,0,2.2,45.3

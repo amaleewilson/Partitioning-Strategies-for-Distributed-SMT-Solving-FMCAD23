@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+smtcomp_264_p0.smt2,,to,unknown,1201.0,0,1200.7,897.0
+smtcomp_264_p1.smt2,,to,unknown,1201.0,0,1200.6,872.8
+smtcomp_264_p10.smt2,,to,unknown,1201.0,0,1200.6,872.8
+smtcomp_264_p11.smt2,,to,unknown,1201.0,0,1200.6,940.2
+smtcomp_264_p12.smt2,,to,unknown,1201.0,0,1200.6,933.1
+smtcomp_264_p13.smt2,,to,unknown,1201.0,0,1200.5,879.7
+smtcomp_264_p14.smt2,,ok,unsat,2.3,0,2.0,34.4
+smtcomp_264_p15.smt2,,to,unknown,1201.0,0,1200.8,886.3
+smtcomp_264_p2.smt2,,to,unknown,1201.0,0,1200.7,919.5
+smtcomp_264_p3.smt2,,to,unknown,1201.0,0,1200.7,904.4
+smtcomp_264_p4.smt2,,to,unknown,1201.0,0,1200.5,942.7
+smtcomp_264_p5.smt2,,to,unknown,1201.0,0,1200.7,881.9
+smtcomp_264_p6.smt2,,to,unknown,1201.0,0,1200.7,950.7
+smtcomp_264_p7.smt2,,to,unknown,1201.0,0,1200.6,888.5
+smtcomp_264_p8.smt2,,to,unknown,1201.0,0,1200.5,861.2
+smtcomp_264_p9.smt2,,to,unknown,1201.0,0,1200.6,917.2

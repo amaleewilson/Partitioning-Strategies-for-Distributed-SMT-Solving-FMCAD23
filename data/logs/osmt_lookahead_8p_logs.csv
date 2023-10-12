@@ -1,0 +1,16 @@
+smtcomp_52.smt2,False,True,timeout,1260.2113571166992
+smtcomp_53.smt2,False,True,timeout,1260.32386469841
+smtcomp_67.smt2,False,True,timeout,1260.7434055805206
+smtcomp_69.smt2,False,True,timeout,1260.822499036789
+smtcomp_103.smt2,False,True,timeout,1260.2145082950592
+smtcomp_257.smt2,False,True,timeout,1260.9980554580688
+smtcomp_284.smt2,False,True,timeout,1260.237174987793
+smtcomp_288.smt2,False,True,timeout,1260.2286496162417
+smtcomp_307.smt2,False,True,timeout,1260.2128548622131
+smtcomp_308.smt2,False,True,timeout,1260.146427154541
+brp_withassume.t2.c_Iteration1_Loop_4-pieceTemplate.smt2,False,True,timeout,1261.786360025406
+brp_withassume.t2.c_Iteration8_Loop_4-pieceTemplate.smt2,False,True,timeout,1262.4428362846377
+hongyi1.t2.c_Iteration1_Loop_4-pieceTemplate.smt2,False,True,timeout,1261.585340499878
+hongyi1.t2.c_Iteration9_Loop_4-pieceTemplate.smt2,False,True,timeout,1261.940465927124
+sas2.t2.c_Iteration7_Loop_4-pieceTemplate.smt2,False,True,timeout,1260.8292541503906
+GulwaniJainKoskinen-2009PLDI-Fig1_true-termination.c_Iteration1_Lasso_4-pieceTemplate.smt2,False,True,timeout,1261.7944128513336

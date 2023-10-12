@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p0.smt2,,ok,unsat,694.2,0,694.2,77.7
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p1.smt2,,ok,unsat,2.1,0,2.1,21.9
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p2.smt2,,to,unknown,1201.0,0,1201.0,110.3
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p3.smt2,,ok,unsat,2.2,0,2.2,21.2

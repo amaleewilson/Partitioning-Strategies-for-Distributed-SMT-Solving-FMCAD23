@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+fixnet-7000_p0.smt2,,to,unknown,1201.0,0,1201.0,223.9
+fixnet-7000_p1.smt2,,to,unknown,1201.0,0,1200.9,278.9
+fixnet-7000_p10.smt2,,to,unknown,1201.0,0,1201.0,509.6
+fixnet-7000_p11.smt2,,to,unknown,1201.0,0,1201.0,261.3
+fixnet-7000_p12.smt2,,to,unknown,1201.0,0,1201.0,383.0
+fixnet-7000_p13.smt2,,to,unknown,1201.0,0,1201.0,290.2
+fixnet-7000_p14.smt2,,to,unknown,1201.0,0,1201.0,363.6
+fixnet-7000_p15.smt2,,to,unknown,1201.0,0,1200.9,211.3
+fixnet-7000_p2.smt2,,ok,sat,14.0,0,14.0,31.7
+fixnet-7000_p3.smt2,,to,unknown,1201.0,0,1201.0,225.0
+fixnet-7000_p4.smt2,,to,unknown,1201.0,0,1201.0,245.7
+fixnet-7000_p5.smt2,,ok,sat,21.6,0,21.6,32.1
+fixnet-7000_p6.smt2,,to,unknown,1201.0,0,1201.0,207.2
+fixnet-7000_p7.smt2,,ok,sat,363.8,0,363.8,84.1
+fixnet-7000_p8.smt2,,to,unknown,1201.0,0,1201.0,187.9
+fixnet-7000_p9.smt2,,to,unknown,1201.0,0,1201.0,337.3

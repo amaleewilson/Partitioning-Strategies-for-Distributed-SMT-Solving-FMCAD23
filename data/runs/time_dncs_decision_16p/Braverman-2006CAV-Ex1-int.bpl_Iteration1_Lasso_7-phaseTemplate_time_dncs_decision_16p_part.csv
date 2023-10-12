@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p0.smt2,,to,unknown,1201.0,0,1200.9,106.4
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p1.smt2,,to,unknown,1201.0,0,1201.0,86.7
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p10.smt2,,ok,unsat,24.6,0,24.5,28.1
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p11.smt2,,ok,unsat,22.0,0,22.0,28.9
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p12.smt2,,ok,unsat,29.7,0,29.7,29.1
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p13.smt2,,ok,unsat,14.1,0,14.0,28.6
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p14.smt2,,ok,unsat,19.4,0,19.4,29.2
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p15.smt2,,to,unknown,1201.0,0,1200.9,96.5
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p2.smt2,,ok,unsat,845.1,0,845.0,62.2
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p3.smt2,,to,unknown,1201.0,0,1200.9,102.4
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p4.smt2,,ok,unsat,328.0,0,328.0,35.5
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p5.smt2,,ok,unsat,122.4,0,122.4,31.6
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p6.smt2,,ok,unsat,84.9,0,84.8,31.4
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p7.smt2,,ok,unsat,123.7,0,123.6,34.2
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p8.smt2,,ok,unsat,45.9,0,45.9,29.5
+Braverman-2006CAV-Ex1-int.bpl_Iteration1_Lasso_7-phaseTemplate_p9.smt2,,ok,unsat,54.2,0,54.2,29.2

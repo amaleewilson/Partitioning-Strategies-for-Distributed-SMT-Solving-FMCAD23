@@ -1,0 +1,3 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_two_index_04.i_3_2_2.bpl_11_p0.smt2,,ok,unsat,404.0,0,404.0,52.8
+_standard_two_index_04.i_3_2_2.bpl_11_p1.smt2,,ok,unsat,686.8,0,686.7,94.4

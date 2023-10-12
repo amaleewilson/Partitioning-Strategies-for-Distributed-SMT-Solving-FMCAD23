@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p0.smt2,,to,unknown,1201.0,0,1200.9,246.4
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p1.smt2,,ok,unsat,870.2,0,870.1,198.4
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p10.smt2,,ok,unsat,647.4,0,647.3,192.7
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p11.smt2,,ok,unsat,903.1,0,903.0,206.9
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p12.smt2,,ok,unsat,707.5,0,707.4,196.5
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p13.smt2,,ok,unsat,1056.4,0,1056.3,222.5
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p14.smt2,,ok,unsat,10.4,0,10.4,101.3
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p15.smt2,,ok,unsat,10.6,0,10.5,101.7
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p2.smt2,,to,unknown,1201.0,0,1200.9,251.7
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p3.smt2,,ok,unsat,770.8,0,770.7,188.3
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p4.smt2,,to,unknown,1201.0,0,1200.9,243.6
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p5.smt2,,ok,unsat,889.4,0,889.3,206.4
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p6.smt2,,ok,unsat,10.5,0,10.4,101.4
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p7.smt2,,ok,unsat,10.3,0,10.2,101.5
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p8.smt2,,ok,unsat,1063.0,0,1062.9,209.0
+_sanfoundry_10_ground.i_6_3_3.bpl_13_p9.smt2,,ok,unsat,810.8,0,810.7,199.5

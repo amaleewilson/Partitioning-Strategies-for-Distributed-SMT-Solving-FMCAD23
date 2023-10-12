@@ -1,0 +1,9 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+constraint-223827_p0.smt2,,ok,unsat,455.0,0,455.0,67.5
+constraint-223827_p1.smt2,,ok,unsat,784.4,0,784.3,69.2
+constraint-223827_p2.smt2,,ok,sat,94.4,0,94.4,68.7
+constraint-223827_p3.smt2,,ok,unsat,442.9,0,442.8,68.9
+constraint-223827_p4.smt2,,ok,unsat,883.1,0,883.0,71.7
+constraint-223827_p5.smt2,,ok,sat,103.3,0,103.3,67.9
+constraint-223827_p6.smt2,,ok,sat,124.5,0,124.5,68.8
+constraint-223827_p7.smt2,,to,unknown,1201.0,0,1201.0,75.2

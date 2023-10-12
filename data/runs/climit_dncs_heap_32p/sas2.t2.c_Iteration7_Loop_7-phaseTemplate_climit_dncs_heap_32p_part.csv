@@ -1,0 +1,13 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p0.smt2,,ok,unsat,31.6,0,31.5,114.1
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p1.smt2,,ok,unsat,1171.5,0,1171.3,687.1
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p10.smt2,,ok,unsat,63.2,0,63.0,408.8
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p11.smt2,,ok,unsat,1164.8,0,1164.6,695.7
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p2.smt2,,ok,unsat,31.8,0,31.7,114.5
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p3.smt2,,ok,unsat,62.4,0,62.2,409.4
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p4.smt2,,ok,unsat,32.1,0,32.0,115.5
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p5.smt2,,to,unknown,1201.0,0,1200.8,722.4
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p6.smt2,,ok,unsat,63.1,0,62.9,409.3
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p7.smt2,,ok,unsat,63.3,0,63.2,429.1
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p8.smt2,,ok,unsat,62.4,0,62.3,408.6
+sas2.t2.c_Iteration7_Loop_7-phaseTemplate_p9.smt2,,ok,unsat,62.5,0,62.4,409.4

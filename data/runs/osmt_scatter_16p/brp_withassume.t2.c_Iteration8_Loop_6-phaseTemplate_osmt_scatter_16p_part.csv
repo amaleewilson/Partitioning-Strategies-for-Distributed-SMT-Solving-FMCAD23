@@ -1,0 +1,17 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p0.smt2,,to,unknown,1201.0,0,1200.9,1101.3
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p1.smt2,,to,unknown,1201.0,0,1200.9,1615.2
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p10.smt2,,to,unknown,1201.0,0,1201.0,1090.4
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p11.smt2,,to,unknown,1201.0,0,1200.9,1113.0
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p12.smt2,,to,unknown,1201.0,0,1201.0,1634.4
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p13.smt2,,to,unknown,1201.0,0,1200.9,1116.1
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p14.smt2,,ok,sat,887.0,0,886.8,1116.8
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p15.smt2,,to,unknown,1201.0,0,1200.9,1122.9
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p2.smt2,,to,unknown,1201.0,0,1201.0,1612.0
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p3.smt2,,to,unknown,1201.0,0,1200.7,1111.7
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p4.smt2,,to,unknown,1201.0,0,1200.9,1116.0
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p5.smt2,,ok,sat,1175.4,0,1175.1,1149.2
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p6.smt2,,ok,sat,1168.1,0,1167.9,1125.7
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p7.smt2,,to,unknown,1201.0,0,1200.8,1138.4
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p8.smt2,,to,unknown,1201.0,0,1200.8,1092.6
+brp_withassume.t2.c_Iteration8_Loop_6-phaseTemplate_p9.smt2,,to,unknown,1201.0,0,1200.9,1087.5

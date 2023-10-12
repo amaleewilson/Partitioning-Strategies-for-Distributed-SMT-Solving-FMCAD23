@@ -1,0 +1,5 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+_standard_init6_ground.i_3_2_2.bpl_7_p0.smt2,,ok,unsat,869.1,0,869.1,147.1
+_standard_init6_ground.i_3_2_2.bpl_7_p1.smt2,,ok,unsat,0.9,0,0.9,10.3
+_standard_init6_ground.i_3_2_2.bpl_7_p2.smt2,,ok,unsat,858.7,0,858.6,142.4
+_standard_init6_ground.i_3_2_2.bpl_7_p3.smt2,,ok,unsat,1.0,0,1.0,10.5

@@ -1,0 +1,4 @@
+benchmark,config,status,result,time_real,exit_code,time_cpu,memory
+bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate_p0.smt2,,to,unknown,1201.0,0,1200.9,1028.3
+bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate_p1.smt2,,ok,sat,1115.7,0,1115.5,1142.5
+bound-scaled600.bpl_Iteration1_Loop_4-pieceTemplate_p2.smt2,,to,unknown,1201.0,0,1200.9,1038.9
