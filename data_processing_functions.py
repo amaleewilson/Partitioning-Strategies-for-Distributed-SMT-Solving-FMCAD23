@@ -3,9 +3,6 @@ import sys
 import os
 from pathlib import Path
 
-"""
-TODO
-"""
 def get_sequential_data(benchmarks, file_path, timeout):
     seq_data = pd.read_csv(file_path)
     tts = []
@@ -20,9 +17,6 @@ def get_sequential_data(benchmarks, file_path, timeout):
     return tts
 
 
-"""
-TODO
-"""
 def build_scamble_dictionary(benchmarks, scram_logfile, scram_loc):
     log_colms=['benchmark', 'time_real'] 
     scram_log_data = pd.read_csv(scram_logfile, names=log_colms)
@@ -37,9 +31,6 @@ def build_scamble_dictionary(benchmarks, scram_logfile, scram_loc):
 
     return scram_dict, scram_log_data
 
-"""
-TODO
-"""
 def access_scram_data(j, sname, data, scram_logdata):
     # get run time
     res = list(data[data["benchmark"] == sname]["result"])[0]
@@ -55,9 +46,6 @@ def access_scram_data(j, sname, data, scram_logdata):
     tim += scram_time
     return res, tim
 
-"""
-TODO
-"""
 def get_scrambled_data(benchmarks, n, scramdata, scram_logdata, timeout, 
                        prev_results=[]):
     tts = []
@@ -95,9 +83,6 @@ def get_scrambled_data(benchmarks, n, scramdata, scram_logdata, timeout,
             continue
     return tts
 
-"""
-TODO
-"""
 def get_num_solved(lst):
     su = 0
     for l in lst:
@@ -105,9 +90,6 @@ def get_num_solved(lst):
             su += 1
     return su
 
-"""
-TODO
-"""
 def get_unknown_time(df):
     tts = 0
     tts_partitions = []
@@ -126,15 +108,9 @@ def get_unknown_time(df):
     return tts
 
 ### For x axis 
-"""
-TODO
-"""
 def forward(x):
     return x**(1/2)
 
-"""
-TODO
-"""
 def inverse(x):
     return x**2
 
